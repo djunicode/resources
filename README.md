@@ -11,6 +11,22 @@ Django is server-side python framework that allows developers to create web apps
 
 1. [Django book](https://djangobook.com/) The first 6 chapters are highly recommended and are enough to get you started.
 
+### Django REST Framework
+
+Django REST framework is a powerful and flexible toolkit for building Web APIs.
+
+#### Tutorial
+
+1. [Detailed tutorial from the website](http://www.django-rest-framework.org/#tutorial) The tutorial will walk you through the building blocks that make up REST framework. It'll take a little while to get through, but it'll give you a comprehensive understanding of how everything fits together, and is highly recommended reading.
+
+#### Video Tutorials Playlist
+
+1. DRF [video tutorials playlist](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTOcOVdZF-th7BS_GYGguAS) from [CodingEntrepreneurs](https://www.youtube.com/user/CodingEntrepreneurs)
+
+#### More Resources
+
+There are a wide range of resources available for learning and using Django REST framework. The Django REST Framework has a comprehensive list available [here](http://www.django-rest-framework.org/topics/tutorials-and-resources/). 
+
 ### JavaScript
 
 JavaScript (JS) is the programming language of the web. It allows adding dynamic content to static web pages. Recently, with the advent of Node.JS, it is also being used on the server side.
