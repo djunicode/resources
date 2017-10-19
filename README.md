@@ -11,6 +11,10 @@ Django is server-side python framework that allows developers to create web apps
 
 1. [Django book](https://djangobook.com/) The first 6 chapters are highly recommended and are enough to get you started.
 
+#### Tutorials
+
+1. [Django girls](https://tutorial.djangogirls.org/en/) build your own blog.
+
 ### JavaScript
 
 JavaScript (JS) is the programming language of the web. It allows adding dynamic content to static web pages. Recently, with the advent of Node.JS, it is also being used on the server side.
