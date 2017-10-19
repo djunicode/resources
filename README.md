@@ -17,7 +17,7 @@ JavaScript (JS) is the programming language of the web. It allows adding dynamic
 
 #### Books
 
-1. [Eloquent Javascript]([http://eloquentjavascript.net/) It provides an in depth explanation of all the core JS concepts finally ending with an introduction to Node.
+1. [Eloquent Javascript](http://eloquentjavascript.net/) It provides an in depth explanation of all the core JS concepts finally ending with an introduction to Node.
 
 #### Tutorials
 
