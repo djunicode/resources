@@ -48,9 +48,16 @@ An absolute beginner's guide to git. It gives a good start, but covers only the 
 - [Git Immersion](http://gitimmersion.com/)  
 A thorough tutorial on git.
 
+### Courses
+- [Udacity How to use git & github](https://in.udacity.com/course/how-to-use-git-and-github--ud775)
+
 ### Workflow and Best Practices
 - [A git workflow for small teams](http://toroid.org/git-central-repo-howto)
 - [Oliver Steele's Blog Post on commit policies](http://blog.osteele.com/2008/05/commit-policies/)
 - [A successful git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 - [Git Best Practises](http://sethrobertson.github.io/GitBestPractices/)
 
+
+## JavaScript
+
+ - https://javascript30.com/
