@@ -113,3 +113,6 @@ Note: This list has been ~~shamelessly plagiarized~~ sourced from University of 
 - [A successful git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 - [Git Best Practises](http://sethrobertson.github.io/GitBestPractices/)
 
+### CheatSheet
+- [Git Ready Reckoner](https://drive.google.com/open?id=0B0TMPJ2DXuRLcWJLc3FMZDF2NU0)
+
