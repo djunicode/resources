@@ -6,6 +6,7 @@ List of resources to get started with software development.
 ### Django
 
 Django is server-side python framework that allows developers to create web apps with little hassle. It is a high level framework and is hence even suitable for beginners. 
+#### Documentation
 [Official Documentation](https://docs.djangoproject.com/en/1.11/)
 #### Books
 
