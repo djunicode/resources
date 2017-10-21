@@ -15,11 +15,8 @@ Django is server-side python framework that allows developers to create web apps
 #### Tutorials
 
 1. [Django girls](https://tutorial.djangogirls.org/en/) build your own blog.
+2. Django Web Development [Sentdex Video Tutorial](https://www.youtube.com/watch?v=FNQxxpM1yOs&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd)
 
-#### Video Tutorial
-
-1. Django Web Development [Sentdex Video Tutorial](https://www.youtube.com/watch?v=FNQxxpM1yOs&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd)
-#### More Resources
 ### Django REST Framework
 
 Django REST framework is a powerful and flexible toolkit for building Web APIs.
