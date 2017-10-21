@@ -6,7 +6,8 @@ List of resources to get started with software development.
 ### Django
 
 Django is server-side python framework that allows developers to create web apps with little hassle. It is a high level framework and is hence even suitable for beginners. 
-
+#### Documentation
+[Official Documentation](https://docs.djangoproject.com/en/1.11/)
 #### Books
 
 1. [Django book](https://djangobook.com/) The first 6 chapters are highly recommended and are enough to get you started.
@@ -15,6 +16,10 @@ Django is server-side python framework that allows developers to create web apps
 
 1. [Django girls](https://tutorial.djangogirls.org/en/) build your own blog.
 
+#### Video Tutorial
+
+1. Django Web Development [Sentdex Video Tutorial](https://www.youtube.com/watch?v=FNQxxpM1yOs&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd)
+#### More Resources
 ### Django REST Framework
 
 Django REST framework is a powerful and flexible toolkit for building Web APIs.
@@ -27,7 +32,7 @@ Django REST framework is a powerful and flexible toolkit for building Web APIs.
 
 1. DRF [video tutorials playlist](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTOcOVdZF-th7BS_GYGguAS) for a blog from [CodingEntrepreneurs](https://www.youtube.com/user/CodingEntrepreneurs)
 
-#### More Resources
+
 
 There are a wide range of resources available for learning and using Django REST framework. The Django REST Framework has a comprehensive list available [here](http://www.django-rest-framework.org/topics/tutorials-and-resources/). 
 
