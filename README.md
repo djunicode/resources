@@ -11,6 +11,7 @@ Django is server-side python framework that allows developers to create web apps
 #### Books
 
 1. [Django book](https://djangobook.com/) The first 6 chapters are highly recommended and are enough to get you started.
+2. [Tango With Django](http://www.tangowithdjango.com/book17/) is another great book to learn from. Slightly more detailed. Recommended chapters include "User Authentication" and "Working with Templates".
 
 #### Tutorials
 
