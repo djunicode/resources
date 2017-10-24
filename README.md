@@ -158,5 +158,5 @@ Note: This list has been ~~shamelessly plagiarized~~ sourced from University of 
 - [Git Ready Reckoner](https://drive.google.com/open?id=0B0TMPJ2DXuRLcWJLc3FMZDF2NU0)
 
 ## Public APIs
-[A curated list of all public APIs](https://github.com/abhishekbanthia/Public-APIs)
-	While this may look like alot, go through the list to see which suits your application.
+[A curated list of all public APIs](https://github.com/abhishekbanthia/Public-APIs)  
+While this may look like alot, go through the list to see which suits your application.
