@@ -147,3 +147,19 @@ Note: This list has been ~~shamelessly plagiarized~~ sourced from University of 
 ### CheatSheet
 - [Git Ready Reckoner](https://drive.google.com/open?id=0B0TMPJ2DXuRLcWJLc3FMZDF2NU0)
 
+### Front end Development 
+    
+    These are some very good websites to start with the basic front-end designing.
+    
+1.https://www.freecodecamp.org/
+
+2.https://www.codecademy.com/
+
+3.https://in.udacity.com/course/intro-to-html-and-css--ud304/?
+
+For bootstrap
+
+1.https://www.w3schools.com/bootstrap/
+
+2.Bootstrap tutorial for beginners: https://www.youtube.com/playlist?list=PL6n9fhu94yhXd4xnk-j5FGhHjUv1LsF0V
+
