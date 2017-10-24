@@ -13,15 +13,6 @@ List of resources to get started with software development.
 
 4. [Udacity Intro Course To HTML and CSS](https://in.udacity.com/course/intro-to-html-and-css--ud304/) Video Lectures
 
-5. [THESTOCKS.IM](http://thestocks.im/)
-
-6. [SANSFRANCIS](http://www.sansfrancis.co/)
-
-7. [DESIGN RESOURCES](http://designresources.party/)
-
-8. [MAKERBOOK](http://makerbook.net/)
-
-9. [ALL THE FREESTOCK](http://allthefreestock.com/)
 #### Bootstrap
 
 1. [Bootstrap W3school](https://www.w3schools.com/bootstrap/)
@@ -39,6 +30,18 @@ List of resources to get started with software development.
 AJAX stands for Ansynchronous Javascript and XML
 1. Basic understanding using [W3Schools](https://www.w3schools.com/js/js_ajax_intro.asp)
 2. [NewBoston Tutorials](https://www.youtube.com/watch?v=tp3Gw-oWs2k&list=PL6gx4Cwl9DGDiJSXfsJTASx9eMq_HlenQ)
+
+#### Designing
+
+1. [THESTOCKS.IM](http://thestocks.im/)
+
+2. [SANSFRANCIS](http://www.sansfrancis.co/)
+
+3. [DESIGN RESOURCES](http://designresources.party/)
+
+4. [MAKERBOOK](http://makerbook.net/)
+
+5. [ALL THE FREESTOCK](http://allthefreestock.com/)
 
 #### Front End Projects
 
