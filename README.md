@@ -59,6 +59,9 @@ React is a JS library to create interactive user interfaces. Complete the follow
 4. Complete this excellent free series on React/Redux/ImmutableJS on [Youtube](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b).
 5. Complete [this project](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/) as you read it. 
 
+### Testing + Optimisation
+1. Some basic insights on how to optimize your webiste [here](https://docs.google.com/document/d/1CptOkbW3YWw8ZlGRy7g1lPfMqI-Y9jyKYGTi-_pTfEk/edit?usp=sharing). 
+
 ## Android
 
 ### Courses
