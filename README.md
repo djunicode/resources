@@ -20,6 +20,17 @@ List of resources to get started with software development.
 
 3.https://www.freecodecamp.org/map-aside#nested-collapseResponsiveDesignwithBootstrap
 
+#### jQuery
+1. Start with a basic overview into jQuery: [W3Schools](https://www.w3schools.com/jquery/default.asp)
+2. After w3, take a read through this book. It helps in applying jQuery in the real web scenarios. 
+	[jQuery in Action](https://www.manning.com/books/jquery-in-action-second-edition)
+3. [Official Documentation](http://api.jquery.com/)
+
+#### AJAX
+AJAX stands for Ansynchronous Javascript and XML
+1. Basic understanding using [W3Schools](https://www.w3schools.com/js/js_ajax_intro.asp)
+2. [NewBoston Tutorials](https://www.youtube.com/watch?v=tp3Gw-oWs2k&list=PL6gx4Cwl9DGDiJSXfsJTASx9eMq_HlenQ)
+
 #### Front End Projects
 
 1.https://www.freecodecamp.org/map-aside#nested-collapseBasicFrontEndDevelopmentProjects
@@ -147,3 +158,6 @@ Note: This list has been ~~shamelessly plagiarized~~ sourced from University of 
 ### CheatSheet
 - [Git Ready Reckoner](https://drive.google.com/open?id=0B0TMPJ2DXuRLcWJLc3FMZDF2NU0)
 
+## Public APIs
+[A curated list of all public APIs](https://github.com/abhishekbanthia/Public-APIs)
+While this may look like alot, go through the list to see which suits your application.https://github.com/abhishekbanthia/Public-APIs
