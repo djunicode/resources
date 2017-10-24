@@ -29,6 +29,7 @@ List of resources to get started with software development.
 
 3. [FCC Advance Level Projects](https://www.freecodecamp.org/map-aside#nested-collapseAdvancedFrontEndDevelopmentProjects)
 
+
 ### Django
 
 Django is server-side python framework that allows developers to create web apps with little hassle. It is a high level framework and is hence even suitable for beginners. 
@@ -37,6 +38,7 @@ Django is server-side python framework that allows developers to create web apps
 #### Books
 
 1. [Django book](https://djangobook.com/) The first 6 chapters are highly recommended and are enough to get you started.
+2. [Tango With Django](http://www.tangowithdjango.com/book17/) is another great book to learn from. Slightly more detailed. Recommended chapters include "User Authentication" and "Working with Templates".
 
 #### Tutorials
 
@@ -84,6 +86,9 @@ React is a JS library to create interactive user interfaces. Complete the follow
 3. Checkout webpack (no need to go hands on for this) on [Youtube](https://www.youtube.com/watch?v=9kJVYpOqcVU).
 4. Complete this excellent free series on React/Redux/ImmutableJS on [Youtube](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b).
 5. Complete [this project](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/) as you read it. 
+
+### Testing + Optimisation
+1. Some basic insights on how to optimize your website [here](https://drive.google.com/file/d/0B6XV2rRoAivrczZ1eUpJd01EU28/view?usp=sharing). 
 
 ## Android
 
