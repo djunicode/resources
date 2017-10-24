@@ -3,22 +3,23 @@ List of resources to get started with software development.
 
 ## Web
 ### Front end Development 
-#### HTML AND CSS
-1.https://www.freecodecamp.org/map-aside#nested-collapseHTML5andCSS
+####  HTML AND CSS
 
-2.https://www.codecademy.com/learn/learn-html
+1. [FCC HTML5 and CSS](https://www.freecodecamp.org/map-aside#nested-collapseHTML5andCSS)
 
-3.https://www.codecademy.com/learn/learn-css
+2. [CodeAcademy HTML](https://www.codecademy.com/learn/learn-html)
 
-4.https://in.udacity.com/course/intro-to-html-and-css--ud304/?
+3. [CodeAcademy CSS](https://www.codecademy.com/learn/learn-css)
+
+4. [Udacity Intro Course To HTML and CSS](https://in.udacity.com/course/intro-to-html-and-css--ud304/) Video Lectures
 
 #### Bootstrap
 
-1.https://www.w3schools.com/bootstrap/
+1. [Bootstrap W3school](https://www.w3schools.com/bootstrap/)
 
-2.Bootstrap tutorial for beginners: https://www.youtube.com/playlist?list=PL6n9fhu94yhXd4xnk-j5FGhHjUv1LsF0V
+2. [Bootstrap tutorial for beginners](https://www.youtube.com/playlist?list=PL6n9fhu94yhXd4xnk-j5FGhHjUv1LsF0V) Video Lectures
 
-3.https://www.freecodecamp.org/map-aside#nested-collapseResponsiveDesignwithBootstrap
+3. [FCC Bootstrap](https://www.freecodecamp.org/map-aside#nested-collapseResponsiveDesignwithBootstrap)
 
 #### jQuery
 1. Start with a basic overview into jQuery: [W3Schools](https://www.w3schools.com/jquery/default.asp)
@@ -32,11 +33,12 @@ AJAX stands for Ansynchronous Javascript and XML
 
 #### Front End Projects
 
-1.https://www.freecodecamp.org/map-aside#nested-collapseBasicFrontEndDevelopmentProjects
+1. [FCC Beginner Level Projects](https://www.freecodecamp.org/map-aside#nested-collapseBasicFrontEndDevelopmentProjects)
 
-2.https://www.freecodecamp.org/map-aside#nested-collapseIntermediateFrontEndDevelopmentProjects
+2. [FCC Intermediate Level Projects](https://www.freecodecamp.org/map-aside#nested-collapseIntermediateFrontEndDevelopmentProjects)
 
-3.https://www.freecodecamp.org/map-aside#nested-collapseAdvancedFrontEndDevelopmentProjects
+3. [FCC Advance Level Projects](https://www.freecodecamp.org/map-aside#nested-collapseAdvancedFrontEndDevelopmentProjects)
+
 
 ### Django
 
