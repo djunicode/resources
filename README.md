@@ -22,8 +22,7 @@ List of resources to get started with software development.
 
 #### jQuery
 1. Start with a basic overview into jQuery: [W3Schools](https://www.w3schools.com/jquery/default.asp)
-2. After w3, take a read through this book. It helps in applying jQuery in the real web scenarios. 
-	[jQuery in Action](https://www.manning.com/books/jquery-in-action-second-edition)
+2. [jQuery in Action](https://www.manning.com/books/jquery-in-action-second-edition)
 3. [Official Documentation](http://api.jquery.com/)
 
 #### AJAX
@@ -160,4 +159,4 @@ Note: This list has been ~~shamelessly plagiarized~~ sourced from University of 
 
 ## Public APIs
 [A curated list of all public APIs](https://github.com/abhishekbanthia/Public-APIs)
-While this may look like alot, go through the list to see which suits your application.https://github.com/abhishekbanthia/Public-APIs
+While this may look like alot, go through the list to see which suits your application.
