@@ -159,4 +159,4 @@ Note: This list has been ~~shamelessly plagiarized~~ sourced from University of 
 
 ## Public APIs
 [A curated list of all public APIs](https://github.com/abhishekbanthia/Public-APIs)
-While this may look like alot, go through the list to see which suits your application.
+	While this may look like alot, go through the list to see which suits your application.
