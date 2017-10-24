@@ -13,6 +13,15 @@ List of resources to get started with software development.
 
 4. [Udacity Intro Course To HTML and CSS](https://in.udacity.com/course/intro-to-html-and-css--ud304/) Video Lectures
 
+5. [THESTOCKS.IM](http://thestocks.im/)
+
+6. [SANSFRANCIS](http://www.sansfrancis.co/)
+
+7. [DESIGN RESOURCES](http://designresources.party/)
+
+8. [MAKERBOOK](http://makerbook.net/)
+
+9.[ALL THE FREESTOCK](http://allthefreestock.com/)
 #### Bootstrap
 
 1. [Bootstrap W3school](https://www.w3schools.com/bootstrap/)
