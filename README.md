@@ -21,7 +21,7 @@ List of resources to get started with software development.
 
 8. [MAKERBOOK](http://makerbook.net/)
 
-9.[ALL THE FREESTOCK](http://allthefreestock.com/)
+9. [ALL THE FREESTOCK](http://allthefreestock.com/)
 #### Bootstrap
 
 1. [Bootstrap W3school](https://www.w3schools.com/bootstrap/)
