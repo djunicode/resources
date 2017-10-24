@@ -2,6 +2,31 @@
 List of resources to get started with software development.
 
 ## Web
+### Front end Development 
+#### HTML AND CSS
+1.https://www.freecodecamp.org/map-aside#nested-collapseHTML5andCSS
+
+2.https://www.codecademy.com/learn/learn-html
+
+3.https://www.codecademy.com/learn/learn-css
+
+4.https://in.udacity.com/course/intro-to-html-and-css--ud304/?
+
+#### Bootstrap
+
+1.https://www.w3schools.com/bootstrap/
+
+2.Bootstrap tutorial for beginners: https://www.youtube.com/playlist?list=PL6n9fhu94yhXd4xnk-j5FGhHjUv1LsF0V
+
+3.https://www.freecodecamp.org/map-aside#nested-collapseResponsiveDesignwithBootstrap
+
+#### Front End Projects
+
+1.https://www.freecodecamp.org/map-aside#nested-collapseBasicFrontEndDevelopmentProjects
+
+2.https://www.freecodecamp.org/map-aside#nested-collapseIntermediateFrontEndDevelopmentProjects
+
+3.https://www.freecodecamp.org/map-aside#nested-collapseAdvancedFrontEndDevelopmentProjects
 
 ### Django
 
