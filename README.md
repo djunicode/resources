@@ -33,15 +33,15 @@ AJAX stands for Ansynchronous Javascript and XML
 
 #### Designing
 
-1. [THESTOCKS.IM](http://thestocks.im/)
+1. [thestocks.im](http://thestocks.im/)
 
-2. [SANSFRANCIS](http://www.sansfrancis.co/)
+2. [sansfrancis.co](http://www.sansfrancis.co/)
 
-3. [DESIGN RESOURCES](http://designresources.party/)
+3. [designresources.party](http://designresources.party/)
 
-4. [MAKERBOOK](http://makerbook.net/)
+4. [makerbook.net](http://makerbook.net/)
 
-5. [ALL THE FREESTOCK](http://allthefreestock.com/)
+5. [allthefreestock](http://allthefreestock.com/)
 
 #### Front End Projects
 
