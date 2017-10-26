@@ -31,6 +31,18 @@ AJAX stands for Ansynchronous Javascript and XML
 1. Basic understanding using [W3Schools](https://www.w3schools.com/js/js_ajax_intro.asp)
 2. [NewBoston Tutorials](https://www.youtube.com/watch?v=tp3Gw-oWs2k&list=PL6gx4Cwl9DGDiJSXfsJTASx9eMq_HlenQ)
 
+#### Designing
+
+1. [thestocks.im](http://thestocks.im/)
+
+2. [sansfrancis.co](http://www.sansfrancis.co/)
+
+3. [designresources.party](http://designresources.party/)
+
+4. [makerbook.net](http://makerbook.net/)
+
+5. [allthefreestock](http://allthefreestock.com/)
+
 #### Front End Projects
 
 1. [FCC Beginner Level Projects](https://www.freecodecamp.org/map-aside#nested-collapseBasicFrontEndDevelopmentProjects)
