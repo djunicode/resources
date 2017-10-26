@@ -45,10 +45,11 @@ AJAX stands for Ansynchronous Javascript and XML
 Django is server-side python framework that allows developers to create web apps with little hassle. It is a high level framework and is hence even suitable for beginners. 
 #### Documentation
 [Official Documentation](https://docs.djangoproject.com/en/1.11/)
-#### Books
+#### Books/Videos
 
 1. [Django book](https://djangobook.com/) The first 6 chapters are highly recommended and are enough to get you started.
 2. [Tango With Django](http://www.tangowithdjango.com/book17/) is another great book to learn from. Slightly more detailed. Recommended chapters include "User Authentication" and "Working with Templates".
+3. [Django tuts](https://www.youtube.com/watch?v=Fc2O3_2kax8&list=PLw02n0FEB3E3VSHjyYMcFadtQORvl1Ssj)-by Max Goodridge.Can be referred as and when required depending on your needs for the project.
 
 #### Tutorials
 
