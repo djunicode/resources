@@ -54,6 +54,12 @@ Django is server-side python framework that allows developers to create web apps
 
 1. [Django girls](https://tutorial.djangogirls.org/en/) build your own blog.
 2. Django Web Development [Sentdex Video Tutorial](https://www.youtube.com/watch?v=FNQxxpM1yOs&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd)
+3. [Simple is better than complex](https://simpleisbetterthancomplex.com/) contains many intermediate to advanced level tutorials on django and connecting different things with django.
+
+#### Resources
+
+1. [Django Packages](https://djangopackages.org/) contains different django packages for almost all different categories.
+You can compare different packages in same category and choose your favorite one.
 
 ### Django REST Framework
 
@@ -84,6 +90,10 @@ JavaScript (JS) is the programming language of the web. It allows adding dynamic
 
 1. [30 day JS challenge](https://javascript30.com/)
 2. [Free code camp](https://www.freecodecamp.org/)
+
+####  Resources
+
+1. [Javascripting](https://www.javascripting.com/), a great source of javascript libraries and frameworks.
 
 ### React
 
