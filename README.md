@@ -31,6 +31,18 @@ AJAX stands for Ansynchronous Javascript and XML
 1. Basic understanding using [W3Schools](https://www.w3schools.com/js/js_ajax_intro.asp)
 2. [NewBoston Tutorials](https://www.youtube.com/watch?v=tp3Gw-oWs2k&list=PL6gx4Cwl9DGDiJSXfsJTASx9eMq_HlenQ)
 
+#### Designing
+
+1. [thestocks.im](http://thestocks.im/)
+
+2. [sansfrancis.co](http://www.sansfrancis.co/)
+
+3. [designresources.party](http://designresources.party/)
+
+4. [makerbook.net](http://makerbook.net/)
+
+5. [allthefreestock](http://allthefreestock.com/)
+
 #### Front End Projects
 
 1. [FCC Beginner Level Projects](https://www.freecodecamp.org/map-aside#nested-collapseBasicFrontEndDevelopmentProjects)
@@ -45,15 +57,22 @@ AJAX stands for Ansynchronous Javascript and XML
 Django is server-side python framework that allows developers to create web apps with little hassle. It is a high level framework and is hence even suitable for beginners. 
 #### Documentation
 [Official Documentation](https://docs.djangoproject.com/en/1.11/)
-#### Books
+#### Books/Videos
 
 1. [Django book](https://djangobook.com/) The first 6 chapters are highly recommended and are enough to get you started.
 2. [Tango With Django](http://www.tangowithdjango.com/book17/) is another great book to learn from. Slightly more detailed. Recommended chapters include "User Authentication" and "Working with Templates".
+
 
 #### Tutorials
 
 1. [Django girls](https://tutorial.djangogirls.org/en/) build your own blog.
 2. Django Web Development [Sentdex Video Tutorial](https://www.youtube.com/watch?v=FNQxxpM1yOs&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd)
+3. [Simple is better than complex](https://simpleisbetterthancomplex.com/) contains many intermediate to advanced level tutorials on django and connecting different things with django.
+
+#### Packages
+
+1. [Django Packages](https://djangopackages.org/) contains different django packages for almost all different categories.
+You can compare different packages in same category and choose your favorite one.
 
 ### Django REST Framework
 
@@ -66,6 +85,7 @@ Django REST framework is a powerful and flexible toolkit for building Web APIs.
 #### Video Tutorial Playlist
 
 1. DRF [video tutorials playlist](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTOcOVdZF-th7BS_GYGguAS) for a blog from [CodingEntrepreneurs](https://www.youtube.com/user/CodingEntrepreneurs)
+2. [Django tuts](https://www.youtube.com/watch?v=Fc2O3_2kax8&list=PLw02n0FEB3E3VSHjyYMcFadtQORvl1Ssj)-by Max Goodridge.Can be referred as and when required depending on your needs for the project.
 
 
 
@@ -84,6 +104,10 @@ JavaScript (JS) is the programming language of the web. It allows adding dynamic
 
 1. [30 day JS challenge](https://javascript30.com/)
 2. [Free code camp](https://www.freecodecamp.org/)
+
+###  Libraries
+
+1. [Javascripting](https://www.javascripting.com/), a great source of javascript libraries and frameworks.
 
 ### React
 
@@ -162,7 +186,6 @@ Note: This list has been ~~shamelessly plagiarized~~ sourced from University of 
 ## Public APIs
 [A curated list of all public APIs](https://github.com/abhishekbanthia/Public-APIs)  
 While this may look like alot, go through the list to see which suits your application.
-
 
 ## Unit Testing
 ### What is Unit Testing?
