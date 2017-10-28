@@ -105,7 +105,7 @@ JavaScript (JS) is the programming language of the web. It allows adding dynamic
 1. [30 day JS challenge](https://javascript30.com/)
 2. [Free code camp](https://www.freecodecamp.org/)
 
-####  Libraries
+###  Libraries
 
 1. [Javascripting](https://www.javascripting.com/), a great source of javascript libraries and frameworks.
 
@@ -186,3 +186,43 @@ Note: This list has been ~~shamelessly plagiarized~~ sourced from University of 
 ## Public APIs
 [A curated list of all public APIs](https://github.com/abhishekbanthia/Public-APIs)  
 While this may look like alot, go through the list to see which suits your application.
+
+## Unit Testing
+### What is Unit Testing?
+Unit Testing is the practice of testing certain logical units of functionality
+in your code. It gives us the ability to verify that each _unit_ of the code
+works as intended.  
+Unit tests may be written for individual functions, or parts of functionality
+encompassing several methods or even classes.
+
+###What exactly is a unit test supposed to do?
+A unit test is supposed to automate the performing certain actions, or provide
+certain input to the _unit_ that is being _tested_, and match that with a
+specific output, or outcome.
+
+###Why should I write tests?
+Unit tests may seem like more work to do, but in the long run, will save you
+several hours, if not days of work. They allow you to ensure that the test
+cases are valid for every version of the software, reducing debugging, and
+testing time.
+
+###Advantages of Unit Testing
+- It is automated, and thus allows you to not have to manually test, later
+- It saves time, since a test written once is useful throughout
+- Tests can range from extremely simple to extremely sophisticated use-cases,
+making them flexible
+
+###When to not write unit tests
+Unit tests need not be written, when the application being built is trivially
+simple, and writing tests would be a significant fraction of the development
+time
+
+###Incorporating Unit Testing into your Development Workflow
+Unit testing is continuous work, and should be done when writing the module
+itself. This is the best time to write the test, as you are clearest with the
+logic of the module.
+
+###Misc
+[Writing testable code](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters)  
+This is a nice guide on writing clean, testable, and maintainable code, as well
+as writing good tests to go along with it
