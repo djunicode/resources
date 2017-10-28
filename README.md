@@ -92,7 +92,7 @@ Django REST framework is a powerful and flexible toolkit for building Web APIs.
 There are a wide range of resources available for learning and using Django REST framework. The Django REST Framework has a comprehensive list available [here](http://www.django-rest-framework.org/topics/tutorials-and-resources/). 
 
 
-## JavaScript
+### JavaScript
 
 JavaScript (JS) is the programming language of the web. It allows adding dynamic content to static web pages. Recently, with the advent of Node.JS, it is also being used on the server side.
 
