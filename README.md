@@ -1,11 +1,5 @@
 # Resources
 List of resources to get started with software development.
-## Table of Contents
-1. [Web](#web)
-    1. [Front End Development](#front-end-development)
-2. [Android](#android)
-3. [Git](#git)
-4. [Public APIs](#public-apis)
 ## Web
 ### Front end Development 
 ####  HTML AND CSS
