@@ -1,6 +1,11 @@
 # Resources
 List of resources to get started with software development.
-
+## Table of Contents
+1. [Web](#web)
+    1. [Front End Development](#front-end-development)
+2. [Android](#android)
+3. [Git](#git)
+4. [Public APIs](#public-apis)
 ## Web
 ### Front end Development 
 ####  HTML AND CSS
@@ -226,3 +231,119 @@ logic of the module.
 [Writing testable code](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters)  
 This is a nice guide on writing clean, testable, and maintainable code, as well
 as writing good tests to go along with it
+
+
+### Django Test Framework
+
+#### Introduction
+
+Django comes with useful extensions to Python's testing suite. It is a useful
+tool for killing bugs, ensuring existing functionality works, when adding new
+components, and validating logic.  
+Unit Testing in Django includes HTTP simulation, template rendering, view
+processing, database operations, and so much more. Most importantly, all this
+complex functionality is made extremely *easy*.
+
+#### Writing Tests
+
+- Django's unit tests are derived from Python's `unittest` module.
+
+- Each test is a separate class, which extends `django.test.TestCase`.
+By convention, each TestCase class is named with the name of the test, followed
+by 'TestCase', e.g. `LoginRegisterTestCase`
+
+- Each test case runs as an isolated transaction, i.e. it does not have any
+permanant effects, or changes on the external environment.
+
+- Each `TestCase` has a function called `setUp`, that should be
+overridden to perform any actions that occur before each test case runs.
+
+- The `setUp` function can perform actions such as making database entries,
+creating and logging in a user, etc. It can also be used to initialize the test
+`client`.
+
+- Each test function is _required_ to begin with the word `test`, e.g.
+`test_login_failure`. Each test function runs in the order it is written in the
+class.
+
+- An example of a `TestCase` is given below.
+
+```python
+class AddItemTestCase(TestCase):
+    def setUp(self):
+        self.factory = RequestFactory()
+
+    def test_add_item(self):
+        request_dict = {
+            'itemtype': 'Book',
+            'title': 'Cormen',
+            'year': 'SE',
+            'department': 'COMPS',
+            'author': 'Cormen',
+            'publisher': 'Pearson',
+            'description': 'Kaafi sahi',
+            'maxprice': 1000,
+            'subject': 'Algorithms',
+        }
+        response = self.client.post(
+            '/store/add-new-items/',
+            request_dict,
+        )
+        self.assertEquals(response.status_code, 302)
+        query_list = Item.objects.filter(title__contains="Cormen")
+        if not query_list:
+            self.assertFalse(True)
+```
+
+#### Testing Tools
+
+The Django Test framework contains _several_ tools for writing effective, and
+efficient tests. Covering all these tools is not possible in the scope of this
+section. The following are some of the most important tools in the test
+framework.
+
+##### The Test Client
+
+The test client is a python class that acts as a dummy web-browser, allowing
+you to test your views, and interact with the django-webapp interactively.
+
+Some of the things that can be done with the test client are:
+- Simulating GET and POST requests, and observing the response.
+- See the redirects, and their associated values.
+- Check and test rendered Templates, and their contexts
+  
+The test client is of the class `django.test.Client`. The Django Test client is
+ present in a `TestCase` by default.  
+You can read more about the test client [here](https://docs.djangoproject.com/en/1.11/topics/testing/tools/#the-test-client)
+
+##### Assertions
+
+Assertions are one of the most important parts of a unit test. Assertions allow
+you to assert that a particular condition occurs, or not. Each test must end
+with an assertion, to check it's validity. A test may contain one or more
+assertion.  
+Assertions are a part of Python, but Django extends this functionality with
+several types of assertions, to reduce the amount of code written.
+  
+Read more about assertions [here](https://docs.djangoproject.com/en/1.11/topics/testing/tools/#assertions)
+
+#### Running Tests
+
+- All tests should be in a file in your app called `test*.py`, where `*` denotes
+any number (including zero) of characters in the file (e.g. `tests_module.py`)
+
+- Tests are run from the command line as `python manage.py test <folder_name>`.
+(Note: It checks only in the directory, and not subdirectories)
+- A good practice is to have at least one `test*.py` file for each app.
+
+#### References
+
+This section has been compiled from [Django's documentation on testing](https://docs.djangoproject.com/en/1.11/topics/testing/).  
+  
+This is by no means a complete guide. It serves as a starting point for you to 
+explore the django test framework.
+
+##### Topics
+- [Writing and Running Tests](https://docs.djangoproject.com/en/1.11/topics/testing/overview/)
+- [Testing Tools](https://docs.djangoproject.com/en/1.11/topics/testing/tools/)
+- [Advanced Testing Topics](https://docs.djangoproject.com/en/1.11/topics/testing/advanced/)
