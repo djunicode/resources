@@ -81,14 +81,14 @@ Django is server-side python framework that allows developers to create web apps
 1. [Django Packages](https://djangopackages.org/) contains different django packages for almost all different categories.
   You can compare different packages in same category and choose your favorite one.
 
-### Django REST Framework
-
-Django REST framework is a powerful and flexible toolkit for building Web APIs.
-
-### Django Unit Tests
+#### Unit Tests
 
 [The Django Test Framework](https://github.com/anant-joshi/resources/wiki/The-Django-Test-Framework)  
 @anant-joshi's guide to the Django Test Framework
+
+### Django REST Framework
+
+Django REST framework is a powerful and flexible toolkit for building Web APIs.
 
 #### Tutorial
 
