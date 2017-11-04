@@ -2,20 +2,19 @@
 List of resources to get started with software development.
 
 ## Web
-### Front end Development 
-####  HTML AND CSS
+### HTML AND CSS
 
 HTML defines the structure of a web page. It forms the skeleton of the web page. Right from head to ~~toe~~ footer. CSS is used to add styling to the web page.
 
 1.  [FCC HTML5 and CSS](https://www.freecodecamp.org/map-aside#nested-collapseHTML5andCSS) 
 
-2. [CodeAcademy HTML](https://www.codecademy.com/learn/learn-html)
+2.  [CodeAcademy HTML](https://www.codecademy.com/learn/learn-html)
 
-3. [CodeAcademy CSS](https://www.codecademy.com/learn/learn-css)
+3.  [CodeAcademy CSS](https://www.codecademy.com/learn/learn-css)
 
-4. [Udacity Intro Course To HTML and CSS](https://in.udacity.com/course/intro-to-html-and-css--ud304/) Video Lectures
+4.  [Udacity Intro Course To HTML and CSS](https://in.udacity.com/course/intro-to-html-and-css--ud304/) Video Lectures
 
-#### Bootstrap
+### Bootstrap
 
 Bootstrap is a free and open-source front-end web framework for designing websites and web applications. It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions.
 
@@ -25,7 +24,7 @@ Bootstrap is a free and open-source front-end web framework for designing websit
 
 3. [FCC Bootstrap](https://www.freecodecamp.org/map-aside#nested-collapseResponsiveDesignwithBootstrap)
 
-#### jQuery
+### jQuery
 
 jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.
 
@@ -33,14 +32,14 @@ jQuery is a fast, small, and feature-rich JavaScript library. It makes things li
 2. [jQuery in Action](https://www.manning.com/books/jquery-in-action-second-edition)
 3. [Official Documentation](http://api.jquery.com/)
 
-#### AJAX
+### AJAX
 
 AJAX stands for Ansynchronous Javascript and XML. It is a set of Web development techniques using many Web technologies on the client side to create asynchronous Web applications. With Ajax, Web applications can send data to and retrieve from a server asynchronously (in the background) without interfering with the display and behavior of the existing page.
 
 1. Basic understanding using [W3Schools](https://www.w3schools.com/js/js_ajax_intro.asp)
 2. [NewBoston Tutorials](https://www.youtube.com/watch?v=tp3Gw-oWs2k&list=PL6gx4Cwl9DGDiJSXfsJTASx9eMq_HlenQ)
 
-#### Designing
+### Designing
 
 1. [thestocks.im](http://thestocks.im/)
 
@@ -52,7 +51,7 @@ AJAX stands for Ansynchronous Javascript and XML. It is a set of Web development
 
 5. [allthefreestock](http://allthefreestock.com/)
 
-#### Front End Projects
+### Front End Projects
 
 1. [FCC Beginner Level Projects](https://www.freecodecamp.org/map-aside#nested-collapseBasicFrontEndDevelopmentProjects)
 
@@ -130,9 +129,6 @@ React is a JS library to create interactive user interfaces. Complete the follow
 4. Complete this excellent free series on React/Redux/ImmutableJS on [Youtube](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b).
 5. Complete [this project](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/) as you read it. 
 
-### Testing + Optimisation
-1. Some basic insights on how to optimize your website [here](https://drive.google.com/file/d/0B6XV2rRoAivrczZ1eUpJd01EU28/view?usp=sharing). 
-
 ## Android
 
 ### Courses
@@ -192,12 +188,16 @@ Note: This list has been ~~shamelessly plagiarized~~ sourced from University of 
 ### CheatSheet
 - [Git Ready Reckoner](https://drive.google.com/open?id=0B0TMPJ2DXuRLcWJLc3FMZDF2NU0)
 
-## Public APIs
-[A curated list of all public APIs](https://github.com/abhishekbanthia/Public-APIs)  
-While this may look like alot, go through the list to see which suits your application.
-
-## Testing
+## Testing & Optimization
 
 [Writing testable code](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters)  
 This is a nice guide on writing clean, testable, and maintainable code, as well
 as writing good tests to go along with it
+
+[Optimization](https://drive.google.com/file/d/0B6XV2rRoAivrczZ1eUpJd01EU28/view?usp=sharing) 
+Some basic insights on how to optimize your website [here](). 
+
+## Public APIs
+
+[A curated list of all public APIs](https://github.com/abhishekbanthia/Public-APIs)  
+While this may look like alot, go through the list to see which suits your application.
