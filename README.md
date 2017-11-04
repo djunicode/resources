@@ -1,18 +1,21 @@
 # Resources
 List of resources to get started with software development.
 ## Web
-### Front end Development 
-####  HTML AND CSS
+### HTML AND CSS
 
-1. [FCC HTML5 and CSS](https://www.freecodecamp.org/map-aside#nested-collapseHTML5andCSS)
+HTML defines the structure of a web page. It forms the skeleton of the web page. Right from head to ~~toe~~ footer. CSS is used to add styling to the web page.
 
-2. [CodeAcademy HTML](https://www.codecademy.com/learn/learn-html)
+1.  [FCC HTML5 and CSS](https://www.freecodecamp.org/map-aside#nested-collapseHTML5andCSS) 
 
-3. [CodeAcademy CSS](https://www.codecademy.com/learn/learn-css)
+2.  [CodeAcademy HTML](https://www.codecademy.com/learn/learn-html)
 
-4. [Udacity Intro Course To HTML and CSS](https://in.udacity.com/course/intro-to-html-and-css--ud304/) Video Lectures
+3.  [CodeAcademy CSS](https://www.codecademy.com/learn/learn-css)
 
-#### Bootstrap
+4.  [Udacity Intro Course To HTML and CSS](https://in.udacity.com/course/intro-to-html-and-css--ud304/) Video Lectures
+
+### Bootstrap
+
+Bootstrap is a free and open-source front-end web framework for designing websites and web applications. It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions.
 
 1. [Bootstrap W3school](https://www.w3schools.com/bootstrap/)
 
@@ -20,17 +23,22 @@ List of resources to get started with software development.
 
 3. [FCC Bootstrap](https://www.freecodecamp.org/map-aside#nested-collapseResponsiveDesignwithBootstrap)
 
-#### jQuery
+### jQuery
+
+jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.
+
 1. Start with a basic overview into jQuery: [W3Schools](https://www.w3schools.com/jquery/default.asp)
 2. [jQuery in Action](https://www.manning.com/books/jquery-in-action-second-edition)
 3. [Official Documentation](http://api.jquery.com/)
 
-#### AJAX
-AJAX stands for Ansynchronous Javascript and XML
+### AJAX
+
+AJAX stands for Ansynchronous Javascript and XML. It is a set of Web development techniques using many Web technologies on the client side to create asynchronous Web applications. With Ajax, Web applications can send data to and retrieve from a server asynchronously (in the background) without interfering with the display and behavior of the existing page.
+
 1. Basic understanding using [W3Schools](https://www.w3schools.com/js/js_ajax_intro.asp)
 2. [NewBoston Tutorials](https://www.youtube.com/watch?v=tp3Gw-oWs2k&list=PL6gx4Cwl9DGDiJSXfsJTASx9eMq_HlenQ)
 
-#### Designing
+### Designing
 
 1. [thestocks.im](http://thestocks.im/)
 
@@ -42,7 +50,7 @@ AJAX stands for Ansynchronous Javascript and XML
 
 5. [allthefreestock](http://allthefreestock.com/)
 
-#### Front End Projects
+### Front End Projects
 
 1. [FCC Beginner Level Projects](https://www.freecodecamp.org/map-aside#nested-collapseBasicFrontEndDevelopmentProjects)
 
@@ -71,7 +79,7 @@ Django is server-side python framework that allows developers to create web apps
 #### Packages
 
 1. [Django Packages](https://djangopackages.org/) contains different django packages for almost all different categories.
-You can compare different packages in same category and choose your favorite one.
+  You can compare different packages in same category and choose your favorite one.
 
 ### Django REST Framework
 
@@ -119,9 +127,6 @@ React is a JS library to create interactive user interfaces. Complete the follow
 3. Checkout webpack (no need to go hands on for this) on [Youtube](https://www.youtube.com/watch?v=9kJVYpOqcVU).
 4. Complete this excellent free series on React/Redux/ImmutableJS on [Youtube](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b).
 5. Complete [this project](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/) as you read it. 
-
-### Testing + Optimisation
-1. Some basic insights on how to optimize your website [here](https://drive.google.com/file/d/0B6XV2rRoAivrczZ1eUpJd01EU28/view?usp=sharing). 
 
 ## Android
 
@@ -182,162 +187,16 @@ Note: This list has been ~~shamelessly plagiarized~~ sourced from University of 
 ### CheatSheet
 - [Git Ready Reckoner](https://drive.google.com/open?id=0B0TMPJ2DXuRLcWJLc3FMZDF2NU0)
 
-## Public APIs
-[A curated list of all public APIs](https://github.com/abhishekbanthia/Public-APIs)  
-While this may look like alot, go through the list to see which suits your application.
+## Testing & Optimization
 
-## Unit Testing
-### What is Unit Testing?
-Unit Testing is the practice of testing certain logical units of functionality
-in your code. It gives us the ability to verify that each _unit_ of the code
-works as intended.  
-Unit tests may be written for individual functions, or parts of functionality
-encompassing several methods or even classes.
-
-### What exactly is a unit test supposed to do?
-A unit test is supposed to automate the performing certain actions, or provide
-certain input to the _unit_ that is being _tested_, and match that with a
-specific output, or outcome.
-
-### Why should I write tests?
-Unit tests may seem like more work to do, but in the long run, will save you
-several hours, if not days of work. They allow you to ensure that the test
-cases are valid for every version of the software, reducing debugging, and
-testing time.
-
-### Advantages of Unit Testing
-- It is automated, and thus allows you to not have to manually test, later
-- It saves time, since a test written once is useful throughout
-- Tests can range from extremely simple to extremely sophisticated use-cases,
-making them flexible
-
-### When to not write unit tests
-Unit tests need not be written, when the application being built is trivially
-simple, and writing tests would be a significant fraction of the development
-time
-
-### Incorporating Unit Testing into your Development Workflow
-Unit testing is continuous work, and should be done when writing the module
-itself. This is the best time to write the test, as you are clearest with the
-logic of the module.
-
-### Misc
 [Writing testable code](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters)  
 This is a nice guide on writing clean, testable, and maintainable code, as well
 as writing good tests to go along with it
 
+[Optimization](https://drive.google.com/file/d/0B6XV2rRoAivrczZ1eUpJd01EU28/view?usp=sharing) 
+Some basic insights on how to optimize your website [here](). 
 
-### Django Test Framework
+## Public APIs
 
-#### Introduction
-
-Django comes with useful extensions to Python's testing suite. It is a useful
-tool for killing bugs, ensuring existing functionality works, when adding new
-components, and validating logic.  
-Unit Testing in Django includes HTTP simulation, template rendering, view
-processing, database operations, and so much more. Most importantly, all this
-complex functionality is made extremely *easy*.
-
-#### Writing Tests
-
-- Django's unit tests are derived from Python's `unittest` module.
-
-- Each test is a separate class, which extends `django.test.TestCase`.
-By convention, each TestCase class is named with the name of the test, followed
-by 'TestCase', e.g. `LoginRegisterTestCase`
-
-- Each test case runs as an isolated transaction, i.e. it does not have any
-permanant effects, or changes on the external environment.
-
-- Each `TestCase` has a function called `setUp`, that should be
-overridden to perform any actions that occur before each test case runs.
-
-- The `setUp` function can perform actions such as making database entries,
-creating and logging in a user, etc. It can also be used to initialize the test
-`client`.
-
-- Each test function is _required_ to begin with the word `test`, e.g.
-`test_login_failure`. Each test function runs in the order it is written in the
-class.
-
-- An example of a `TestCase` is given below.
-
-```python
-class AddItemTestCase(TestCase):
-    def setUp(self):
-        self.factory = RequestFactory()
-
-    def test_add_item(self):
-        request_dict = {
-            'itemtype': 'Book',
-            'title': 'Cormen',
-            'year': 'SE',
-            'department': 'COMPS',
-            'author': 'Cormen',
-            'publisher': 'Pearson',
-            'description': 'Kaafi sahi',
-            'maxprice': 1000,
-            'subject': 'Algorithms',
-        }
-        response = self.client.post(
-            '/store/add-new-items/',
-            request_dict,
-        )
-        self.assertEquals(response.status_code, 302)
-        query_list = Item.objects.filter(title__contains="Cormen")
-        if not query_list:
-            self.assertFalse(True)
-```
-
-#### Testing Tools
-
-The Django Test framework contains _several_ tools for writing effective, and
-efficient tests. Covering all these tools is not possible in the scope of this
-section. The following are some of the most important tools in the test
-framework.
-
-##### The Test Client
-
-The test client is a python class that acts as a dummy web-browser, allowing
-you to test your views, and interact with the django-webapp interactively.
-
-Some of the things that can be done with the test client are:
-- Simulating GET and POST requests, and observing the response.
-- See the redirects, and their associated values.
-- Check and test rendered Templates, and their contexts
-  
-The test client is of the class `django.test.Client`. The Django Test client is
- present in a `TestCase` by default.  
-You can read more about the test client [here](https://docs.djangoproject.com/en/1.11/topics/testing/tools/#the-test-client)
-
-##### Assertions
-
-Assertions are one of the most important parts of a unit test. Assertions allow
-you to assert that a particular condition occurs, or not. Each test must end
-with an assertion, to check it's validity. A test may contain one or more
-assertion.  
-Assertions are a part of Python, but Django extends this functionality with
-several types of assertions, to reduce the amount of code written.
-  
-Read more about assertions [here](https://docs.djangoproject.com/en/1.11/topics/testing/tools/#assertions)
-
-#### Running Tests
-
-- All tests should be in a file in your app called `test*.py`, where `*` denotes
-any number (including zero) of characters in the file (e.g. `tests_module.py`)
-
-- Tests are run from the command line as `python manage.py test <folder_name>`.
-(Note: It checks only in the directory, and not subdirectories)
-- A good practice is to have at least one `test*.py` file for each app.
-
-#### References
-
-This section has been compiled from [Django's documentation on testing](https://docs.djangoproject.com/en/1.11/topics/testing/).  
-  
-This is by no means a complete guide. It serves as a starting point for you to 
-explore the django test framework.
-
-##### Topics
-- [Writing and Running Tests](https://docs.djangoproject.com/en/1.11/topics/testing/overview/)
-- [Testing Tools](https://docs.djangoproject.com/en/1.11/topics/testing/tools/)
-- [Advanced Testing Topics](https://docs.djangoproject.com/en/1.11/topics/testing/advanced/)
+[A curated list of all public APIs](https://github.com/abhishekbanthia/Public-APIs)  
+While this may look like alot, go through the list to see which suits your application.
