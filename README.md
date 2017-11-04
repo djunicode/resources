@@ -17,6 +17,8 @@ HTML defines the structure of a web page. It forms the skeleton of the web page.
 
 #### Bootstrap
 
+Bootstrap is a free and open-source front-end web framework for designing websites and web applications. It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions.
+
 1. [Bootstrap W3school](https://www.w3schools.com/bootstrap/)
 
 2. [Bootstrap tutorial for beginners](https://www.youtube.com/playlist?list=PL6n9fhu94yhXd4xnk-j5FGhHjUv1LsF0V) Video Lectures
@@ -24,12 +26,17 @@ HTML defines the structure of a web page. It forms the skeleton of the web page.
 3. [FCC Bootstrap](https://www.freecodecamp.org/map-aside#nested-collapseResponsiveDesignwithBootstrap)
 
 #### jQuery
+
+jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.
+
 1. Start with a basic overview into jQuery: [W3Schools](https://www.w3schools.com/jquery/default.asp)
 2. [jQuery in Action](https://www.manning.com/books/jquery-in-action-second-edition)
 3. [Official Documentation](http://api.jquery.com/)
 
 #### AJAX
-AJAX stands for Ansynchronous Javascript and XML
+
+AJAX stands for Ansynchronous Javascript and XML. It is a set of Web development techniques using many Web technologies on the client side to create asynchronous Web applications. With Ajax, Web applications can send data to and retrieve from a server asynchronously (in the background) without interfering with the display and behavior of the existing page.
+
 1. Basic understanding using [W3Schools](https://www.w3schools.com/js/js_ajax_intro.asp)
 2. [NewBoston Tutorials](https://www.youtube.com/watch?v=tp3Gw-oWs2k&list=PL6gx4Cwl9DGDiJSXfsJTASx9eMq_HlenQ)
 
