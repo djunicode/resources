@@ -1,6 +1,5 @@
 # Resources
 List of resources to get started with software development.
-
 ## Web
 ### HTML AND CSS
 
@@ -81,6 +80,11 @@ Django is server-side python framework that allows developers to create web apps
 
 1. [Django Packages](https://djangopackages.org/) contains different django packages for almost all different categories.
   You can compare different packages in same category and choose your favorite one.
+
+#### Unit Tests
+
+[The Django Test Framework](https://github.com/anant-joshi/resources/wiki/The-Django-Test-Framework)  
+@anant-joshi's guide to the Django Test Framework
 
 ### Django REST Framework
 
@@ -189,6 +193,9 @@ Note: This list has been ~~shamelessly plagiarized~~ sourced from University of 
 - [Git Ready Reckoner](https://drive.google.com/open?id=0B0TMPJ2DXuRLcWJLc3FMZDF2NU0)
 
 ## Testing & Optimization
+
+[Unit Testing Guide](https://github.com/anant-joshi/resources/wiki/Unit-Testing)  
+@anant-joshi's guide to Unit Tests
 
 [Writing testable code](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters)  
 This is a nice guide on writing clean, testable, and maintainable code, as well
