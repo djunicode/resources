@@ -163,7 +163,16 @@ React is a JS library to create interactive user interfaces. Complete the follow
         - [RecyclerView reference](https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html)
         - [RecyclerView layout](https://developer.android.com/guide/topics/ui/layout/recyclerview.html)
 
+## Python
+Python is a great object-oriented, interpreted, and interactive programming language. Python combines remarkable power with very clear syntax. It has modules, classes, exceptions, very high level dynamic data types, and dynamic typing.
 
+For a beginner diving into the world of programming, Python is arguably the most beginner-friendly and versatile language to start with.
+
+### Tutorials
+
+ - [Official Python Tutorial](https://docs.python.org/3/tutorial/) teaches Python in depth, everything from syntax to the extensive standard library.
+ - [Google's Python Class](https://developers.google.com/edu/python/) is a quick start course intended for people coming from a programming background. If you're used to verbose languages like Java and C/ C++, this course will give you a taste of Python.
+ - [CodeAcademy](https://www.codecademy.com/learn/learn-python) is good for introduction to programming.
 
 ## Git  
 Every modern development team requires a version control system, and git is probably the best. Linus Torvalds made this, in a mere two weeks to manage the (famously complex) Linux kernel project.
