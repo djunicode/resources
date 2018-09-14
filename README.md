@@ -1,6 +1,18 @@
 # Resources
 
-List of resources to get started with software development.
+List of resources to get started with software development. 
+
+## Languages
+
+### Python
+
+Python is a great object-oriented, interpreted, and interactive programming language. For a beginner diving into the world of programming, Python is arguably the most beginner-friendly and versatile language to start with.
+
+#### Tutorials
+
+- [Official Python Tutorial](https://docs.python.org/3/tutorial/) teaches Python in depth, everything from syntax to the extensive standard library.
+- [Google's Python Class](https://developers.google.com/edu/python/) is a quick start course intended for people coming from a programming background. If you're used to verbose languages like Java and C/ C++, this course will give you a taste of Python.
+- [CodeAcademy](https://www.codecademy.com/learn/learn-python) is good for introduction to programming.
 
 ## Web
 
@@ -168,23 +180,42 @@ Note: This list has been ~~shamelessly plagiarized~~ sourced from University of 
 - [Git Ready Reckoner](https://drive.google.com/open?id=0B0TMPJ2DXuRLcWJLc3FMZDF2NU0)
 
 
-## Languages
-
-### Python
-Python is a great object-oriented, interpreted, and interactive programming language. For a beginner diving into the world of programming, Python is arguably the most beginner-friendly and versatile language to start with.
-
-#### Tutorials
- - [Official Python Tutorial](https://docs.python.org/3/tutorial/) teaches Python in depth, everything from syntax to the extensive standard library.
- - [Google's Python Class](https://developers.google.com/edu/python/) is a quick start course intended for people coming from a programming background. If you're used to verbose languages like Java and C/ C++, this course will give you a taste of Python.
- - [CodeAcademy](https://www.codecademy.com/learn/learn-python) is good for introduction to programming.
-
-
 ## Testing & Optimization
+
 - [Unit Testing Guide](https://github.com/anant-joshi/resources/wiki/Unit-Testing)   @anant-joshi's guide to Unit Tests
 - [Writing testable code](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters) This is a nice guide on writing clean, testable, and maintainable code, as well
-as writing good tests to go along with it
+  as writing good tests to go along with it
 - [Optimization](https://drive.google.com/file/d/0B6XV2rRoAivrczZ1eUpJd01EU28/view?usp=sharing) Some basic insights on how to optimize your website [here](). 
 
-
 ## Public APIs
-- [A curated list of all public APIs](https://github.com/abhishekbanthia/Public-APIs)  While this may look like alot, go through the list to see which suits your application.
+- [A curated list of all public APIs](https://github.com/abhishekbanthia/Public-APIs)  While this may look like a lot, go through the list to see which suits your application.
+
+## Advanced  Topics
+
+So, you've spent (or as some may call it, wasted)  time developing web/android apps but while you like programming, you want to work on something more challenging. If that sounds like you, welcome to our "Advanced Topics" section! It is still a work in progress but we are constantly adding more resources. If you would like to add (or remove) a resource, please feel free to create a PR. 
+
+Before we proceed, please keep in mind that these are advanced topics (as the name clearly states) in computer science (coz that's where all the money is). Trying to jump into these topics without any programming/basic math background may lead to tears and heartbreak.  Okay maybe not. But you would have to spend more time than the average user on the topics.
+
+**TL;DR:**   If you want to learn advanced topics, you've come to the right place (section). If you don't have a strong math background, you might have to work harder but it is very doable. Best of luck!
+
+### Natural Language Processing
+
+Natural Language Processing (NLP) involves making the computer understand human language (Text and Speech). Most of human knowledge is stored in the form of text (Wikipedia and others). But that text only makes sense to humans. Imagine the possibilities if a computer could know more than one human could in their lifetime. Still not convinced?  Think of Alexa, Siri and other assistants. All of these use some form of NLP! 
+
+You may choose to either start from the basics of NLP and gradually move to deep learning or you could directly jump to applying deep learning techniques to NLP (if you have a machine learning background) and then once you see how cool NLP is, you could (read should) go back and learn the basics of NLP without all the fancy neural networks. 
+
+#### Courses
+
+1. [Natural Language Processing](http://www.cs.jhu.edu/~jason/465/) by Jason Eisner, Johns Hopkins University. While video lectures aren't available for the course, you should definitely go solve all the assignments. They are very tough and will strengthen your NLP foundations. You can go through the suggested readings (on the course page) if you need help with homework. (Strongly recommended)
+2. [Natural Language Processing](https://www.youtube.com/playlist?list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm) by Dan Jurafsky and Christopher Manning, Stanford University.  Both the professors have written two separate text books on NLP. This was a coursera course but it is no longer offered. Sadly, there are no assignments available for the course. You could choose to watch these videos and solve the homework from the first course.
+3. [Deep Learning for NLP](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) by Richard Socher and Christopher Manning, Stanford University. It is a great deep learning course even if you aren't interested in NLP. The course provides an introduction to deep learning and how to apply it for text data. Make sure you do the [course assignments](http://web.stanford.edu/class/cs224n/assignments.html). Also as mentioned earlier, if you decide to start with the course and like NLP, you should most definitely do at least one of course 1 and 2.  
+
+#### Books
+
+1. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) by Dan Jurafsky and James Martin. Great book. Available for free. Doesn't cover deep learning
+
+**Note:** Please make sure to implement at least one project once you are fairly comfortable with NLP. You could either use Deep Learning or just stick to the traditional techniques. Or you could do both and compare the two methods :P 
+
+
+
+Topics to come: Machine Learning, Deep Learning, Computer Vision, Cybersecurity and maybe HCI  
