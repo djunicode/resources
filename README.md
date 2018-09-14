@@ -78,6 +78,7 @@ Django is server-side Python framework that allows developers to create web apps
 1. [Django girls](https://tutorial.djangogirls.org/en/) build your own blog.
 2. Django Web Development [Sentdex Video Tutorial](https://www.youtube.com/watch?v=FNQxxpM1yOs&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd)
 3. [Simple is better than complex](https://simpleisbetterthancomplex.com/) contains many intermediate to advanced level tutorials on django and connecting different things with django.
+4. [The New Boston](https://www.youtube.com/watch?v=qgGIqRFvFFk&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK) tutorials are good to help you get started with Django and give the basic overview of the framework.
 
 #### Packages
 1. [Django Packages](https://djangopackages.org/) contains different django packages for almost all different categories.
@@ -98,19 +99,19 @@ Django REST framework is a powerful and flexible toolkit for building Web APIs.
 1. DRF [video tutorials playlist](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTOcOVdZF-th7BS_GYGguAS) for a blog from [CodingEntrepreneurs](https://www.youtube.com/user/CodingEntrepreneurs)
 2. [Django tuts](https://www.youtube.com/watch?v=Fc2O3_2kax8&list=PLw02n0FEB3E3VSHjyYMcFadtQORvl1Ssj)-by Max Goodridge.Can be referred as and when required depending on your needs for the project.
 
-There are a wide range of resources available for learning and using Django REST framework. The Django REST Framework has a comprehensive list available [here](http://www.django-rest-framework.org/topics/tutorials-and-resources/). 
+There are a wide range of resources available for learning and using Django REST framework. The Django REST Framework has a comprehensive list available [here](http://www.django-rest-framework.org/topics/tutorials-and-resources/).
 
 
 ### React
-React is a JS library to create interactive user interfaces. Complete the following 5 tutorials in order. 
+React is a JS library to create interactive user interfaces. Complete the following 5 tutorials in order.
 
-**Note**: The following resources have been copied from the wiki page of [CloudCV's Origami](https://github.com/Cloud-CV/Origami/) 
+**Note**: The following resources have been copied from the wiki page of [CloudCV's Origami](https://github.com/Cloud-CV/Origami/)
 
 1. Start with a quick overview using the official react docs [here](https://facebook.github.io/react/tutorial/tutorial.html).
 2. Learn some ES6 [here](http://ccoenraets.github.io/es6-tutorial/).
 3. Checkout webpack (no need to go hands on for this) on [Youtube](https://www.youtube.com/watch?v=9kJVYpOqcVU).
 4. Complete this excellent free series on React/Redux/ImmutableJS on [Youtube](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b).
-5. Complete [this project](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/) as you read it. 
+5. Complete [this project](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/) as you read it.
 
 ## Android
 
@@ -183,7 +184,7 @@ Python is a great object-oriented, interpreted, and interactive programming lang
 - [Unit Testing Guide](https://github.com/anant-joshi/resources/wiki/Unit-Testing)   @anant-joshi's guide to Unit Tests
 - [Writing testable code](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters) This is a nice guide on writing clean, testable, and maintainable code, as well
 as writing good tests to go along with it
-- [Optimization](https://drive.google.com/file/d/0B6XV2rRoAivrczZ1eUpJd01EU28/view?usp=sharing) Some basic insights on how to optimize your website [here](). 
+- [Optimization](https://drive.google.com/file/d/0B6XV2rRoAivrczZ1eUpJd01EU28/view?usp=sharing) Some basic insights on how to optimize your website [here]().
 
 
 ## Public APIs
