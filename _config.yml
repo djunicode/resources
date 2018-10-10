@@ -5,7 +5,7 @@ permalink:           pretty
 title:               DJ Unicode
 tagline:             Resources
 url:                 http://www.github.com/djunicode
-baseurl:             ""
+baseurl:             "https://vixrant.github.io/resources"
 
 # Assets
 #
@@ -23,8 +23,6 @@ author:
 # Custom vars
 version:             1.0.0
 github:              https://github.com/djunicode
-  repo:              https://github.com/djunicode/resources
 
 # Gems
 gems:
-  - jekyll-gist
