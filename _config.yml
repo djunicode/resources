@@ -1,0 +1,30 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               DJ Unicode
+tagline:             Resources
+url:                 http://www.github.com/djunicode
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              DJ Unicode
+  url:               https://github.com/djunicode
+  email:             abc@email.xyz
+
+# Custom vars
+version:             1.0.0
+github:              https://github.com/djunicode
+  repo:              https://github.com/djunicode/resources
+
+# Gems
+gems:
+  - jekyll-gist
