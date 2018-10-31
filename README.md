@@ -5,7 +5,6 @@ List of resources to get started with software development.
 ## Languages
 
 ### Python
-
 Python is a great object-oriented, interpreted, and interactive programming language. For a beginner diving into the world of programming, Python is arguably the most beginner-friendly and versatile language to start with.
 
 #### Tutorials
@@ -13,6 +12,8 @@ Python is a great object-oriented, interpreted, and interactive programming lang
 - [Official Python Tutorial](https://docs.python.org/3/tutorial/) teaches Python in depth, everything from syntax to the extensive standard library.
 - [Google's Python Class](https://developers.google.com/edu/python/) is a quick start course intended for people coming from a programming background. If you're used to verbose languages like Java and C/ C++, this course will give you a taste of Python.
 - [CodeAcademy](https://www.codecademy.com/learn/learn-python) is good for introduction to programming.
+
+
 
 ## Web
 
@@ -29,14 +30,14 @@ HTML defines the structure of a web page. It forms the skeleton of the web page.
 JavaScript (JS) is the programming language of the web. It allows adding dynamic content to static web pages. Recently, with the advent of Node.JS, it is also being used on the server side.
 
 #### Books
-1. [Eloquent Javascript](http://eloquentjavascript.net/) It provides an in depth explanation of all the core JS concepts finally ending with an introduction to Node.
+1. [Eloquent JavaScript](http://eloquentJavaScript.net/) It provides an in depth explanation of all the core JS concepts finally ending with an introduction to Node.
 
 #### Tutorials
-1. [30 day JS challenge](https://javascript30.com/)
+1. [30 day JS challenge](https://JavaScript30.com/)
 2. [Free code camp](https://www.freecodecamp.org/)
 
 ####  Libraries
-1. [Javascripting](https://www.javascripting.com/), a great source of javascript libraries and frameworks.
+1. [JavaScripting](https://www.JavaScripting.com/), a great source of JavaScript libraries and frameworks.
 
 
 ### Bootstrap
@@ -56,7 +57,7 @@ jQuery is a fast, small, and feature-rich JavaScript library. It makes things li
 
 
 ### AJAX
-AJAX stands for Ansynchronous Javascript and XML. It is a set of Web development techniques using many Web technologies on the client side to create asynchronous Web applications. With Ajax, Web applications can send data to and retrieve from a server asynchronously (in the background) without interfering with the display and behavior of the existing page.
+AJAX stands for Ansynchronous JavaScript and XML. It is a set of Web development techniques using many Web technologies on the client side to create asynchronous Web applications. With Ajax, Web applications can send data to and retrieve from a server asynchronously (in the background) without interfering with the display and behavior of the existing page.
 
 1. Basic understanding using [W3Schools](https://www.w3schools.com/js/js_ajax_intro.asp)
 2. [NewBoston Tutorials](https://www.youtube.com/watch?v=tp3Gw-oWs2k&list=PL6gx4Cwl9DGDiJSXfsJTASx9eMq_HlenQ)
@@ -124,6 +125,32 @@ React is a JS library to create interactive user interfaces. Complete the follow
 3. Checkout webpack (no need to go hands on for this) on [Youtube](https://www.youtube.com/watch?v=9kJVYpOqcVU).
 4. Complete this excellent free series on React/Redux/ImmutableJS on [Youtube](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b).
 5. Complete [this project](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/) as you read it.
+
+
+### NodeJS & ExpressJS
+NodeJS is a runtime environment for JavaScript based on Chrome's V8 engine. JavaScript is traditionally a frontend language which was only executed in the web browser. NodeJS allows you to run JavaScript programs without a browser and provides a standard library for building HTTP servers and interface with your local machine/ operating system. Theoretically, it's JVM for JavaScript. *ExpressJS* is a NodeJS library which simplifies the creation of complex HTTP servers. Unlike Django, NodeJS/ ExpressJS apps are very lightweight and do not come with features such as authentication or ORM, hence _this section is only recommended for people who are familiar with backend development and JavaScript's asynchronous programming_.
+
+#### Learning NodeJS as an environment
+- [NodeJS Fundamentals](https://webapplog.com/node-js-fundamentals-a-concise-overview-of-the-main-concepts/) is enough to get you started for ExpressJS.
+- [TutorialsPoint](https://www.tutorialspoint.com/nodejs/) is good for learning what comes with NodeJS.
+- [NPM Tutorial](https://vegibit.com/node-package-manager-tutorial/). Node Package Manager, NPM, is used for downloading third-party packages for your project. There are a lot of concepts in NPM compared to Python's PIP, such as local packages and the package.json file. However you'll only need 3 commands in the beginning.
+- nodejs.org documentation is confusing for new comers. However the [API reference](https://nodejs.org/api/) is good for a cheatsheet.
+
+#### Documentation
+- [ExpressJS Documentation](http://expressjs.com) can be completed in a day provided you are familiar with JavaScript as a language.
+- You will also need MongoDB knowledge in the future, along with [Mongoose](https://mongoosejs.com) as an ORM library.
+
+#### Tutorials
+- [Nodeschool.io](https://nodeschool.io/#workshoppers) has the best in-depth interactive tutorials.
+- [TutorialsPoint](https://www.tutorialspoint.com/expressjs/) is always good for beginners.
+- [MDN's ExpressJS Guide](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs) is a more advance guide.
+
+#### Courses
+- [Microsoft's NodeJS Course](https://www.edx.org/course/introduction-to-nodejs-4) covers Express and Mongoose (for Mongo).
+
+#### Videos
+- [NetNinja's playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) covers everything.
+
 
 ## Android
 
