@@ -178,7 +178,12 @@ NodeJS is a runtime environment for JavaScript based on Chrome's V8 engine. Java
         - [Guide on Creating Lists and Cards](https://developer.android.com/training/material/lists-cards.html)
         - [RecyclerView reference](https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html)
         - [RecyclerView layout](https://developer.android.com/guide/topics/ui/layout/recyclerview.html)
-
+### Some useful libraries
+- [Retrofit](https://square.github.io/retrofit/) ,[Volley](https://developer.android.com/training/volley/) (Networking)
+- [Glide](https://bumptech.github.io/glide/),[picasso](http://square.github.io/picasso/) (images)
+- [GSON](https://github.com/google/gson)  (JSON to POJO and vice versa)
+- [leakcanary](https://github.com/square/leakcanary)  (memory leaks)
+- **A big list [here](https://github.com/wasabeef/awesome-android-libraries)**
 
 ## Git  
 Every modern development team requires a version control system, and git is probably the best. Linus Torvalds made this, in a mere two weeks to manage the (famously complex) Linux kernel project.  
