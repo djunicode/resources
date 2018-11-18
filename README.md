@@ -2,6 +2,22 @@
 
 List of resources to get started with software development. 
 
+* [Python](#python)
+* [Web](#web)
+  * [HTML & CSS](#html-and-css)
+  * [JavaScript](#javascript)
+  * [BootStrap](#bootstrap)
+  * [jQuery](#jquery)
+  * [AJAX](#ajax)
+  * [Django](#django)
+  * [React](#react)
+  * [NodeJS & ExpressJS](#nodejs-and-expressjs)
+* [Android](#android)
+* [Git](#git)
+* [Advanced Topics](#advanced-topics)
+  * [Natural Language Processing](#natural-language-processing)
+
+
 ## Languages
 
 ### Python
@@ -127,7 +143,7 @@ React is a JS library to create interactive user interfaces. Complete the follow
 5. Complete [this project](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/) as you read it.
 
 
-### NodeJS & ExpressJS
+### NodeJS AND ExpressJS
 NodeJS is a runtime environment for JavaScript based on Chrome's V8 engine. JavaScript is traditionally a frontend language which was only executed in the web browser. NodeJS allows you to run JavaScript programs without a browser and provides a standard library for building HTTP servers and interface with your local machine/ operating system. Theoretically, it's JVM for JavaScript. *ExpressJS* is a NodeJS library which simplifies the creation of complex HTTP servers. Unlike Django, NodeJS/ ExpressJS apps are very lightweight and do not come with features such as authentication or ORM, hence _this section is only recommended for people who are familiar with backend development and JavaScript's asynchronous programming_.
 
 #### Learning NodeJS as an environment
@@ -222,7 +238,7 @@ Note: This list has been ~~shamelessly plagiarized~~ sourced from University of 
 ## Public APIs
 - [A curated list of all public APIs](https://github.com/abhishekbanthia/Public-APIs)  While this may look like a lot, go through the list to see which suits your application.
 
-## Advanced  Topics
+## Advanced Topics
 
 So, you've spent (or as some may call it, wasted)  time developing web/android apps but while you like programming, you want to work on something more challenging. If that sounds like you, welcome to our "Advanced Topics" section! It is still a work in progress but we are constantly adding more resources. If you would like to add (or remove) a resource, please feel free to create a PR. 
 
