@@ -135,10 +135,10 @@ There are a wide range of resources available for learning and using Django REST
 AngularJS (also written as Angular.js) is a JavaScript-based open-source front-end web application framework mainly maintained by Google and by a community of individuals and corporations to address many of the challenges encountered in developing single-page applications.
 
 #### Tutorial
-1. [AngularJS] (https://angularjs.org/)Google’s official website for AngularJS is a good place to kickstart your journey towards learning AngularJS. The site has useful text-based learning material supported by videos as well as other literature on the topic.
-2. [TutorialsPoint] (http://www.tutorialspoint.com/angularjs/index.htm) offers a text-based course explaining the basic programming concepts and components of AngularJS. You can easily learn to develop AngularJS web applications with this course.
-3. [AirPair] (https://www.airpair.com/angularjs/posts/angularjs-tutorial) Todd Motto’s highly insightful tutorial on AngularJS is definitely worth checking out. This text-based tutorial imparts AngularJS framework knowledge covering topics, such as dynamic routing, form validation, server communication, templating and more.
-4. [VideoTutorial] (https://weblogs.asp.net/dwahlin/video-tutorial-angularjs-fundamentals-in-60-ish-minutes) AngularJS Fundamentals in 60 Minutes. Also [Egghead](https://egghead.io/technologies/angularjs) is a good video tutorial link.
+1. [AngularJS](https://angularjs.org/) Google’s official website for AngularJS is a good place to kickstart your journey towards learning AngularJS. The site has useful text-based learning material supported by videos as well as other literature on the topic.
+2. [TutorialsPoint](http://www.tutorialspoint.com/angularjs/index.htm) offers a text-based course explaining the basic programming concepts and components of AngularJS. You can easily learn to develop AngularJS web applications with this course.
+3. [AirPair](https://www.airpair.com/angularjs/posts/angularjs-tutorial) Todd Motto’s highly insightful tutorial on AngularJS is definitely worth checking out. This text-based tutorial imparts AngularJS framework knowledge covering topics, such as dynamic routing, form validation, server communication, templating and more.
+4. [VideoTutorial](https://weblogs.asp.net/dwahlin/video-tutorial-angularjs-fundamentals-in-60-ish-minutes) AngularJS Fundamentals in 60 Minutes. Also [Egghead](https://egghead.io/technologies/angularjs) is a good video tutorial link.
 
 [Projects](https://github.com/angular/angular.js/wiki/Projects-using-AngularJS) It has a list of open source projects and examples using AngularJS.
 
