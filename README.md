@@ -1,6 +1,6 @@
 # Resources
 
-List of resources to get started with software development. 
+List of resources to get started with software development.
 
 * [Python](#python)
 * [Web](#web)
@@ -114,7 +114,7 @@ Django is server-side Python framework that allows developers to create web apps
   You can compare different packages in same category and choose your favorite one.
 
 #### Unit Tests
-[The Django Test Framework](https://github.com/anant-joshi/resources/wiki/The-Django-Test-Framework)  
+[The Django Test Framework](https://github.com/anant-joshi/resources/wiki/The-Django-Test-Framework)
 @anant-joshi's guide to the Django Test Framework
 
 
@@ -129,6 +129,18 @@ Django REST framework is a powerful and flexible toolkit for building Web APIs.
 2. [Django tuts](https://www.youtube.com/watch?v=Fc2O3_2kax8&list=PLw02n0FEB3E3VSHjyYMcFadtQORvl1Ssj)-by Max Goodridge.Can be referred as and when required depending on your needs for the project.
 
 There are a wide range of resources available for learning and using Django REST framework. The Django REST Framework has a comprehensive list available [here](http://www.django-rest-framework.org/topics/tutorials-and-resources/).
+
+
+### AngularJS
+AngularJS (also written as Angular.js) is a JavaScript-based open-source front-end web application framework mainly maintained by Google and by a community of individuals and corporations to address many of the challenges encountered in developing single-page applications.
+
+#### Tutorial
+1. [AngularJS](https://angularjs.org/) Google’s official website for AngularJS is a good place to kickstart your journey towards learning AngularJS. The site has useful text-based learning material supported by videos as well as other literature on the topic.
+2. [TutorialsPoint](http://www.tutorialspoint.com/angularjs/index.htm) offers a text-based course explaining the basic programming concepts and components of AngularJS. You can easily learn to develop AngularJS web applications with this course.
+3. [AirPair](https://www.airpair.com/angularjs/posts/angularjs-tutorial) Todd Motto’s highly insightful tutorial on AngularJS is definitely worth checking out. This text-based tutorial imparts AngularJS framework knowledge covering topics, such as dynamic routing, form validation, server communication, templating and more.
+4. [VideoTutorial](https://weblogs.asp.net/dwahlin/video-tutorial-angularjs-fundamentals-in-60-ish-minutes) AngularJS Fundamentals in 60 Minutes. Also [Egghead](https://egghead.io/technologies/angularjs) is a good video tutorial link.
+
+[Projects](https://github.com/angular/angular.js/wiki/Projects-using-AngularJS) It has a list of open source projects and examples using AngularJS.
 
 
 ### React
@@ -174,22 +186,22 @@ NodeJS is a runtime environment for JavaScript based on Chrome's V8 engine. Java
 - [Udacity: Developing Android Apps](https://in.udacity.com/course/new-android-fundamentals--ud851)
 
 ### Documentation
-- [Android Developers Website](https://developer.android.com/develop/index.html)  
+- [Android Developers Website](https://developer.android.com/develop/index.html)
   You will find pretty much **everything** that is present in standard Android here
-- [Android Developers Reference](https://developer.android.com/reference/packages.html)  
+- [Android Developers Reference](https://developer.android.com/reference/packages.html)
   Documentation on all classes is given here
 - [FireBase Android](https://firebase.google.com/docs/android/setup)
 - **Specific Guides**
     - [Intents](https://developer.android.com/guide/components/intents-filters.html)
-    - [Activities](https://developer.android.com/guide/components/activities/index.html)  
+    - [Activities](https://developer.android.com/guide/components/activities/index.html)
         Take special note of the activity lifecycle, and the back-stack. The back-stack is a crucial, but oft-neglected part of effective android navigation.
-    - [Fragments](https://developer.android.com/guide/components/fragments.html)  
+    - [Fragments](https://developer.android.com/guide/components/fragments.html)
         Read this once even if you know how to use Fragments. This is the most important concept for a front-end developer
-    - [Services](https://developer.android.com/guide/components/services.html)  
+    - [Services](https://developer.android.com/guide/components/services.html)
         For any service that runs in the background, even when the app is closed
-    - [Loaders](https://developer.android.com/guide/components/loaders.html)  
+    - [Loaders](https://developer.android.com/guide/components/loaders.html)
         For loading data into the UI from any source. Prevents the UI from being unresponsive
-    - [ContentProviders](https://developer.android.com/guide/topics/providers/content-providers.html)  
+    - [ContentProviders](https://developer.android.com/guide/topics/providers/content-providers.html)
         For creating a standardized and effective interface to access your app's data from within and outside the app. This is very important when doing any kind of local storage
     - **RecyclerView**: Everybody go through this, no matter what part of the Android stack you focus on
         - [Guide on Creating Lists and Cards](https://developer.android.com/training/material/lists-cards.html)
@@ -203,19 +215,19 @@ NodeJS is a runtime environment for JavaScript based on Chrome's V8 engine. Java
 - [Room Persistence Library](https://developer.android.com/topic/libraries/architecture/room) (abstraction layer over SQLite)
 - **A big list [here](https://github.com/wasabeef/awesome-android-libraries)**
 
-## Git  
-Every modern development team requires a version control system, and git is probably the best. Linus Torvalds made this, in a mere two weeks to manage the (famously complex) Linux kernel project.  
+## Git
+Every modern development team requires a version control system, and git is probably the best. Linus Torvalds made this, in a mere two weeks to manage the (famously complex) Linux kernel project.
 
 Note: This list has been ~~shamelessly plagiarized~~ sourced from University of Southern California's page [here](http://bits.usc.edu/cs104-sp17/git-resources.html)
 
-### Books  
+### Books
 - [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html) is brief and effective. A good read if you are in a hurry.
 - [Pro Git](https://git-scm.com/book/en/v2): A detailed, but thorough book on git. A must read, if you have time.
 
-### Tutorials  
-- [Try Git](https://try.github.io/levels/1/challenges/1)  
+### Tutorials
+- [Try Git](https://try.github.io/levels/1/challenges/1)
   An absolute beginner's guide to git. It gives a good start, but covers only the most basic stuff.
-- [Git Immersion](http://gitimmersion.com/)  
+- [Git Immersion](http://gitimmersion.com/)
   A thorough tutorial on git.
 
 ### Courses
@@ -242,7 +254,7 @@ Note: This list has been ~~shamelessly plagiarized~~ sourced from University of 
 
 ## Advanced Topics
 
-So, you've spent (or as some may call it, wasted)  time developing web/android apps but while you like programming, you want to work on something more challenging. If that sounds like you, welcome to our "Advanced Topics" section! It is still a work in progress but we are constantly adding more resources. If you would like to add (or remove) a resource, please feel free to create a PR. 
+So, you've spent (or as some may call it, wasted)  time developing web/android apps but while you like programming, you want to work on something more challenging. If that sounds like you, welcome to our "Advanced Topics" section! It is still a work in progress but we are constantly adding more resources. If you would like to add (or remove) a resource, please feel free to create a PR.
 
 Before we proceed, please keep in mind that these are advanced topics (as the name clearly states) in computer science (coz that's where all the money is). Trying to jump into these topics without any programming/basic math background may lead to tears and heartbreak.  Okay maybe not. But you would have to spend more time than the average user on the topics.
 
@@ -250,22 +262,22 @@ Before we proceed, please keep in mind that these are advanced topics (as the na
 
 ### Natural Language Processing
 
-Natural Language Processing (NLP) involves making the computer understand human language (Text and Speech). Most of human knowledge is stored in the form of text (Wikipedia and others). But that text only makes sense to humans. Imagine the possibilities if a computer could know more than one human could in their lifetime. Still not convinced?  Think of Alexa, Siri and other assistants. All of these use some form of NLP! 
+Natural Language Processing (NLP) involves making the computer understand human language (Text and Speech). Most of human knowledge is stored in the form of text (Wikipedia and others). But that text only makes sense to humans. Imagine the possibilities if a computer could know more than one human could in their lifetime. Still not convinced?  Think of Alexa, Siri and other assistants. All of these use some form of NLP!
 
-You may choose to either start from the basics of NLP and gradually move to deep learning or you could directly jump to applying deep learning techniques to NLP (if you have a machine learning background) and then once you see how cool NLP is, you could (read should) go back and learn the basics of NLP without all the fancy neural networks. 
+You may choose to either start from the basics of NLP and gradually move to deep learning or you could directly jump to applying deep learning techniques to NLP (if you have a machine learning background) and then once you see how cool NLP is, you could (read should) go back and learn the basics of NLP without all the fancy neural networks.
 
 #### Courses
 
 1. [Natural Language Processing](http://www.cs.jhu.edu/~jason/465/) by Jason Eisner, Johns Hopkins University. While video lectures aren't available for the course, you should definitely go solve all the assignments. They are very tough and will strengthen your NLP foundations. You can go through the suggested readings (on the course page) if you need help with homework. (Strongly recommended)
 2. [Natural Language Processing](https://www.youtube.com/playlist?list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm) by Dan Jurafsky and Christopher Manning, Stanford University.  Both the professors have written two separate text books on NLP. This was a coursera course but it is no longer offered. Sadly, there are no assignments available for the course. You could choose to watch these videos and solve the homework from the first course.
-3. [Deep Learning for NLP](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) by Richard Socher and Christopher Manning, Stanford University. It is a great deep learning course even if you aren't interested in NLP. The course provides an introduction to deep learning and how to apply it for text data. Make sure you do the [course assignments](http://web.stanford.edu/class/cs224n/assignments.html). Also as mentioned earlier, if you decide to start with the course and like NLP, you should most definitely do at least one of course 1 and 2.  
+3. [Deep Learning for NLP](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) by Richard Socher and Christopher Manning, Stanford University. It is a great deep learning course even if you aren't interested in NLP. The course provides an introduction to deep learning and how to apply it for text data. Make sure you do the [course assignments](http://web.stanford.edu/class/cs224n/assignments.html). Also as mentioned earlier, if you decide to start with the course and like NLP, you should most definitely do at least one of course 1 and 2.
 
 #### Books
 
 1. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) by Dan Jurafsky and James Martin. Great book. Available for free. Doesn't cover deep learning
 
-**Note:** Please make sure to implement at least one project once you are fairly comfortable with NLP. You could either use Deep Learning or just stick to the traditional techniques. Or you could do both and compare the two methods :P 
+**Note:** Please make sure to implement at least one project once you are fairly comfortable with NLP. You could either use Deep Learning or just stick to the traditional techniques. Or you could do both and compare the two methods :P
 
 
 
-Topics to come: Machine Learning, Deep Learning, Computer Vision, Cybersecurity and maybe HCI  
+Topics to come: Machine Learning, Deep Learning, Computer Vision, Cybersecurity and maybe HCI
