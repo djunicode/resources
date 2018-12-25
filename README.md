@@ -16,6 +16,7 @@ List of resources to get started with software development.
 * [Git](#git)
 * [Advanced Topics](#advanced-topics)
   * [Natural Language Processing](#natural-language-processing)
+  * [Machine Learning](#machine-learning)
 
 
 ## Languages
@@ -264,6 +265,39 @@ You may choose to either start from the basics of NLP and gradually move to deep
 
 **Note:** Please make sure to implement at least one project once you are fairly comfortable with NLP. You could either use Deep Learning or just stick to the traditional techniques. Or you could do both and compare the two methods :P 
 
+### Machine Learning
+Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome.
+
+Machine Learning today is one of the most sought-after skills in the market. A lot of Software Engineers are picking up ML, simply because it is a highly paid skill.
+So, how do you go about Machine Learning?
+
+•	First things first - the prerequisites:
+
+o	Basic calculus. In Machine Learning, you’d be working on a lot of optimizations that require knowledge of Calculus. It would be highly recommended that you are aware of functions, limits, differentiation, maxima, minima, etc.
+o	Linear Algebra. When you talk about ML, you will be dealing with matrices and vectors every day. So, knowledge of Linear Algebra is a must. However, you’d also be required to know about other important topics like Eigenvalues and Eigenvectors.
+o	Probability. Most ML algorithms try to “model” the underlying phenomena that generated the observed data. All of this modelling is probabilistic. It is therefore highly recommended that you are comfortable with the theory of Probability.
+
+•	Getting into actual ML:
+
+#### Courses
+
+1.	[Machine Learning]( https://www.coursera.org/learn/machine-learning) by Andrew Ng. on Coursera. It is the best course there is, on this topic, and takes you slowly and efficiently through all the different algorithms like, Regression, Classification, to name a few. Once you finish this about 8-week long course, you should be ready to start taking up small ML projects of your own for practice.
+
+2.	[Machine Learning Crash Course] (https://developers.google.com/machine-learning/crash-course/ml-intro) as provided by Google, is also a good way to step into the world of ML. However, it is, as its name suggests, a crash course, and would not go as into depth as the Coursera one does. So, if you’re in a hurry, try this one out, and you’ll be done in almost a week or two!
 
 
-Topics to come: Machine Learning, Deep Learning, Computer Vision, Cybersecurity and maybe HCI  
+#### Books
+
+For those of you, who prefer to learn & understand through a good, thorough read:
+
+1.	[Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/091117.pdf) by David Barber. 
+Speaking of Bayesian statistics, this one is a classic. This takes a Bayesian statistics approach to machine learning. A book worth checking out for anyone getting into the machine learning field.
+
+2.	[Understanding Machine Learning] (http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html) by Shai Shalev-Shwartz and Shai Ben-David. This book gives a structured introduction to machine learning. It looks at the fundamental theories of machine learning and the mathematical derivations that transform these concepts into practical algorithms. Following that, it covers a list of ML algorithms, including (but not limited to), stochastic gradient descent, neural networks, and structured output learning.
+
+
+**Note:** Please do take up ML projects. The best way to learn Machine Learning is to actually apply it to real datasets and solve real problems. Machine Learning is as much of an art as it is a science. You will learn it from experience. Your focus should be on attempting multiple ML projects so as to gain experience and build a strong profile.
+
+
+
+Topics to come: Deep Learning, Computer Vision, Cybersecurity and maybe HCI  
