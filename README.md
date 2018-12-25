@@ -199,6 +199,7 @@ NodeJS is a runtime environment for JavaScript based on Chrome's V8 engine. Java
 - [Glide](https://bumptech.github.io/glide/),[picasso](http://square.github.io/picasso/) (images)
 - [GSON](https://github.com/google/gson)  (JSON to POJO and vice versa)
 - [leakcanary](https://github.com/square/leakcanary)  (memory leaks)
+- [Room Persistence Library](https://developer.android.com/topic/libraries/architecture/room) (abstraction layer over SQLite)
 - **A big list [here](https://github.com/wasabeef/awesome-android-libraries)**
 
 ## Git  
