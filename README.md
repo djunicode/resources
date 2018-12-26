@@ -16,7 +16,7 @@ List of resources to get started with software development.
 * [Git](#git)
 * [Advanced Topics](#advanced-topics)
   * [Natural Language Processing](#natural-language-processing)
-
+  * [Computer Vison](#computer -vison)
 
 ## Languages
 
@@ -281,3 +281,23 @@ You may choose to either start from the basics of NLP and gradually move to deep
 
 
 Topics to come: Machine Learning, Deep Learning, Computer Vision, Cybersecurity and maybe HCI
+
+#### Computer Vision
+
+_If We Want Machines to Think, We Need to Teach Them to See._ **-Fei Fei Li, Director of Stanford AI Lab and Stanford Vision Lab**
+
+The phenomenon that makes machines such as computers or mobile phones see the surroundings is known as Computer Vision. Serious work on re-creating a human eye started way back in 50s and since then, we have come a long way. Computer vision has already made its way to our mobile phone via different e-commerce or camera apps.
+
+Think of what more can be done by machine when they will be able to see as accurate as a human eye. Human eye is a complex structure and it goes through more complex phenomenon of understanding the environment. In a similar fashion, making machines see things and make them capable enough to figure out what they are seeing and further categorize it, is still a pretty tough job.
+
+Working on Computer Vision is equivalent to working on millions of calculations in the blink of an eye with almost same accuracy as that of a human eye. It is not just about converting a picture into pixels, and then try to make sense of what’s in the picture through those pixels, you will have to first understand the bigger picture of how to extract information from those pixels and understand what they represent.
+
+To start with Computer Vision you will need to master the library `opencv` and some concepts of what an image actually is!
+
+[This is an official tutorial by OpenCV organization.](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
+
+[Coursera Tutorial link](https://www.coursera.org/learn/deep-learning-in-computer-vision)
+
+[Link to presentation](https://drive.google.com/open?id=1c1-RrYQvUxrrwsxr6ZN_lw1oYDR3cr5K) This presentation explains an image and gives an example how image detection works and what happens when you apply different kernels and edge detection techniques.There are more advanced topis but I feel this will itself be more heavy on brains for a beginner. Also at the presentation contains a simple Nerual network which takes an image 28x28 pixel size and classify what digit is it.
+
+Basic requirement :- **Strong under of Image** , **understanding of what a Neural network is and how it works** , **pyhton** and the most important **interest to learn** :p
