@@ -184,6 +184,9 @@ NodeJS is a runtime environment for JavaScript based on Chrome's V8 engine. Java
 
 ### Courses
 - [Udacity: Developing Android Apps](https://in.udacity.com/course/new-android-fundamentals--ud851)
+- [Google Codelabs: Android tutorials](https://codelabs.developers.google.com/?cat=Android)
+- [Udacity: Kotlin for Android Developers](https://in.udacity.com/course/kotlin-for-android-developers--ud888)
+- [Stanford: Android App Development](http://web.stanford.edu/class/cs193a/videos.shtml)
 
 ### Documentation
 - [Android Developers Website](https://developer.android.com/develop/index.html)
@@ -213,6 +216,7 @@ NodeJS is a runtime environment for JavaScript based on Chrome's V8 engine. Java
 - [GSON](https://github.com/google/gson)  (JSON to POJO and vice versa)
 - [leakcanary](https://github.com/square/leakcanary)  (memory leaks)
 - [Room Persistence Library](https://developer.android.com/topic/libraries/architecture/room) (abstraction layer over SQLite)
+- [Data Binding](https://developer.android.com/topic/libraries/data-binding/) (Binding views without expensive findViewById() calls)
 - **A big list [here](https://github.com/wasabeef/awesome-android-libraries)**
 
 ## Git
