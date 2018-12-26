@@ -216,8 +216,8 @@ NodeJS is a runtime environment for JavaScript based on Chrome's V8 engine. Java
 
 **REACT NATIVE :-**
 
-React Native is a Native JS library to create Mobile Apps.
-
+React Native is a Native JS library to create Mobile Apps(Android, IOS & TV) and quite easier to implement as compared to AndroidStudio(Java).
+ 
 1. Doumentaion: https://facebook.github.io/react-native/docs/getting-started --prefer following "Build use Native Code".
 2. A course by CS50, teaches right from basics of JS & React: https://cs50.github.io/mobile/lectures / https://www.youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR
 3. React Navigation is a realy usefull(and must use) library for all types of navigations in Mobile Apps: https://reactnavigation.org/docs/en/getting-started.html
