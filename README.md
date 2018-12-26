@@ -154,7 +154,6 @@ React is a JS library to create interactive user interfaces. Complete the follow
 4. Complete this excellent free series on React/Redux/ImmutableJS on [Youtube](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b).
 5. Complete [this project](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/) as you read it.
 
-
 ### NodeJS AND ExpressJS
 NodeJS is a runtime environment for JavaScript based on Chrome's V8 engine. JavaScript is traditionally a frontend language which was only executed in the web browser. NodeJS allows you to run JavaScript programs without a browser and provides a standard library for building HTTP servers and interface with your local machine/ operating system. Theoretically, it's JVM for JavaScript. *ExpressJS* is a NodeJS library which simplifies the creation of complex HTTP servers. Unlike Django, NodeJS/ ExpressJS apps are very lightweight and do not come with features such as authentication or ORM, hence _this section is only recommended for people who are familiar with backend development and JavaScript's asynchronous programming_.
 
@@ -214,6 +213,18 @@ NodeJS is a runtime environment for JavaScript based on Chrome's V8 engine. Java
 - [leakcanary](https://github.com/square/leakcanary)  (memory leaks)
 - [Room Persistence Library](https://developer.android.com/topic/libraries/architecture/room) (abstraction layer over SQLite)
 - **A big list [here](https://github.com/wasabeef/awesome-android-libraries)**
+
+**REACT NATIVE :-**
+
+React Native is a Native JS library to create Mobile Apps.
+
+1. Doumentaion: https://facebook.github.io/react-native/docs/getting-started --prefer following "Build use Native Code".
+2. A course by CS50, teaches right from basics of JS & React: https://cs50.github.io/mobile/lectures / https://www.youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR
+3. React Navigation is a realy usefull(and must use) library for all types of navigations in Mobile Apps: https://reactnavigation.org/docs/en/getting-started.html
+4. You can also subscribe to this thread on reddit, it is useful sometimes: https://www.reddit.com/r/reactnative
+5. Get other cool libraries from: https://www.npmjs.com
+
+Suggestions: Use Live Reload & Debug JS Remotely, make sure you make yourself comfirtable with JS syntax, preferably-remove all logs before build, do not touch native scripts without understanding(may cause frustrating build errors).
 
 ## Git
 Every modern development team requires a version control system, and git is probably the best. Linus Torvalds made this, in a mere two weeks to manage the (famously complex) Linux kernel project.
