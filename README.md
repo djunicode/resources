@@ -281,19 +281,26 @@ o	Probability. Most ML algorithms try to “model” the underlying phenomena th
 
 #### Courses
 
-1.	[Machine Learning]( https://www.coursera.org/learn/machine-learning) by Andrew Ng. on Coursera. It is the best course there is, on this topic, and takes you slowly and efficiently through all the different algorithms like, Regression, Classification, to name a few. Once you finish this about 8-week long course, you should be ready to start taking up small ML projects of your own for practice.
+1.	[Machine Learning]( https://www.coursera.org/learn/machine-learning) by Andrew Ng. on Coursera. It is the best course there is, on this topic, and takes you slowly and efficiently through all the different algorithms like, Regression, Classification, to name a few. Once you finish this about 8-week long course, you should be ready to start taking up small ML projects of your own for practice. The Octave/MATLAB assignments are pretty outdated, though. Python based projects on ML are recommended.
 
 2.	[Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro) as provided by Google, is also a good way to step into the world of ML. However, it is, as its name suggests, a crash course, and would not go as into depth as the Coursera one does. So, if you’re in a hurry, try this one out, and you’ll be done in almost a week or two!
+
+3. [The Complete Machine Learning Course with Python](https://www.udemy.com/machine-learning-course-with-python/) by Udemy with help you build a Portfolio of 12 Machine Learning Projects with Python, SVM, Regression, Unsupervised Machine Learning & More! It's costlier than most courses though, but given the wide variety of teaching styles, including project-based ones, and versatility with Python, Matplotlib, Scikit-learn, et cetera, it's safe to say it is well worth it!
 
 
 #### Books
 
 For those of you, who prefer to learn & understand through a good, thorough read:
 
-1.	[Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/091117.pdf) by David Barber. 
+1. [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) or PRML by Ian Bishop is hands down the best ML book in existence! The book is thorough on whatever concepts needed, be it purely mathematical or programming. The book is supported by a great deal of additional material, including lecture slides as well as the complete set of figures used in the book, and you are encouraged to visit the [book web site](http://research.microsoft.com/∼cmbishop/PRML) for the latest information. There are some complementary volumes to this, which implement ML through MATLAB.
+
+2. [Machine Learning](https://www.cs.ubbcluj.ro/~gabis/ml/ml-books/McGrawHill%20-%20Machine%20Learning%20-Tom%20Mitchell.pdf) by Tom Mitchell, as published by McGrawHill, is another introductory text on primary approaches to machine learning and
+the study of computer algorithms that improve automatically through experience. It introduces all basics concepts from statistics, artificial intelligence, information theory, and other disciplines as the need arises, with balanced coverage of theory and practice, and presents major algorithms with illustrations of their use, which aids quick learning. This book also provides chapterwise exercises. Online data sets and implementations of several algorithms are also available.
+
+3.	[Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/091117.pdf) by David Barber. 
 Speaking of Bayesian statistics, this one is a classic. This takes a Bayesian statistics approach to machine learning. A book worth checking out for anyone getting into the machine learning field.
 
-2.	[Understanding Machine Learning](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html) by Shai Shalev-Shwartz and Shai Ben-David. This book gives a structured introduction to machine learning. It looks at the fundamental theories of machine learning and the mathematical derivations that transform these concepts into practical algorithms. Following that, it covers a list of ML algorithms, including (but not limited to), stochastic gradient descent, neural networks, and structured output learning.
+4.	[Understanding Machine Learning](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html) by Shai Shalev-Shwartz and Shai Ben-David. This book gives a structured introduction to machine learning. It looks at the fundamental theories of machine learning and the mathematical derivations that transform these concepts into practical algorithms. Following that, it covers a list of ML algorithms, including (but not limited to), stochastic gradient descent, neural networks, and structured output learning.
 
 
 **Note:** Please do take up ML projects. The best way to learn Machine Learning is to actually apply it to real datasets and solve real problems. Machine Learning is as much of an art as it is a science. You will learn it from experience. Your focus should be on attempting multiple ML projects so as to gain experience and build a strong profile.
