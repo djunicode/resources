@@ -285,8 +285,11 @@ o	Probability. Most ML algorithms try to “model” the underlying phenomena th
 
 2.	[Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro) as provided by Google, is also a good way to step into the world of ML. However, it is, as its name suggests, a crash course, and would not go as into depth as the Coursera one does. So, if you’re in a hurry, try this one out, and you’ll be done in almost a week or two!
 
-3. [The Complete Machine Learning Course with Python](https://www.udemy.com/machine-learning-course-with-python/) by Udemy with help you build a Portfolio of 12 Machine Learning Projects with Python, SVM, Regression, Unsupervised Machine Learning & More! It's costlier than most courses though, but given the wide variety of teaching styles, including project-based ones, and versatility with Python, Matplotlib, Scikit-learn, et cetera, it's safe to say it is well worth it!
+3. [The Complete Machine Learning Course with Python](https://www.udemy.com/machine-learning-course-with-python/) by Udemy with help you build a Portfolio of 12 Machine Learning Projects with Python, SVM, Regression, Unsupervised Machine Learning & More! It's costlier than most courses though, but given the wide variety of teaching styles, including project-based ones, and versatility with Python, Matplotlib, Scikit-learn, et cetera, it's safe to say it is well worth it! There are occasional discounts though, so make heavy use of them.
 
+#### Tutorials 
+
+1. [Machine Learning with Python Tutorial series](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/) on pythonprogramming.net is an in-depth and practical machine learning hands-on course. It aims to give you a wholistic understanding of machine learning, covering theory, application, and inner workings of supervised, unsupervised, and deep learning algorithms. It covers linear regression, K Nearest Neighbors, Support Vector Machines (SVM), flat clustering, hierarchical clustering, and neural networks, using Matplotlib, Scikit-learn, et cetera. What's more, it's free!
 
 #### Books
 
