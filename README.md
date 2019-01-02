@@ -274,7 +274,9 @@ So, how do you go about Machine Learning?
 •	First things first - the prerequisites:
 
 o	Basic calculus. In Machine Learning, you’d be working on a lot of optimizations that require knowledge of Calculus. It would be highly recommended that you are aware of functions, limits, differentiation, maxima, minima, etc.
+
 o	Linear Algebra. When you talk about ML, you will be dealing with matrices and vectors every day. So, knowledge of Linear Algebra is a must. However, you’d also be required to know about other important topics like Eigenvalues and Eigenvectors.
+
 o	Probability. Most ML algorithms try to “model” the underlying phenomena that generated the observed data. All of this modelling is probabilistic. It is therefore highly recommended that you are comfortable with the theory of Probability.
 
 •	Getting into actual ML:
@@ -300,10 +302,13 @@ For those of you, who prefer to learn & understand through a good, thorough read
 2. [Machine Learning](https://www.cs.ubbcluj.ro/~gabis/ml/ml-books/McGrawHill%20-%20Machine%20Learning%20-Tom%20Mitchell.pdf) by Tom Mitchell, as published by McGrawHill, is another introductory text on primary approaches to machine learning and
 the study of computer algorithms that improve automatically through experience. It introduces all basics concepts from statistics, artificial intelligence, information theory, and other disciplines as the need arises, with balanced coverage of theory and practice, and presents major algorithms with illustrations of their use, which aids quick learning. This book also provides chapterwise exercises. Online data sets and implementations of several algorithms are also available.
 
-3.	[Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/091117.pdf) by David Barber. 
-Speaking of Bayesian statistics, this one is a classic. This takes a Bayesian statistics approach to machine learning. A book worth checking out for anyone getting into the machine learning field.
+3. [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%2520Sixth%2520Printing.pdf&ved=2ahUKEwj0mv-ywc_fAhUG448KHWwzB-wQFjAAegQIARAB&usg=AOvVaw0z2p5-mAH6aG7kIA7XB2yc) with applications in R by Gareth James, Daniela Witten, Trevor Hastie & Robert Tibshirani. The Python implementations of the same can be found [here](https://github.com/JWarmenhoven/ISLR-python). This is a great book to begin with, as the authors give precise, practical explanations of what methods are available, and when to use them, including explicit R code. Anyone who wants to intelligently analyze complex data should own this book.
+As a textbook for an introduction to data science through machine learning, there is much to like about ISLR. It’s thorough, lively, written at level appropriate for undergraduates and usable by nonexperts. It’s chock full of interesting examples of how modern predictive machine learning algorithms work (and don’t work) in a variety of settings.
 
-4.	[Understanding Machine Learning](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html) by Shai Shalev-Shwartz and Shai Ben-David. This book gives a structured introduction to machine learning. It looks at the fundamental theories of machine learning and the mathematical derivations that transform these concepts into practical algorithms. Following that, it covers a list of ML algorithms, including (but not limited to), stochastic gradient descent, neural networks, and structured output learning.
+4.	[Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/091117.pdf) by David Barber. 
+Speaking of Bayesian statistics, this one is a classic. This takes a Bayesian statistics approach to machine learning. A book worth checking out for anyone getting into the machine learning field. 
+
+5. [Understanding Machine Learning](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html) by Shai Shalev-Shwartz and Shai Ben-David. This book gives a structured introduction to machine learning. It looks at the fundamental theories of machine learning and the mathematical derivations that transform these concepts into practical algorithms. Following that, it covers a list of ML algorithms, including (but not limited to), stochastic gradient descent, neural networks, and structured output learning.
 
 
 **Note:** Please do take up ML projects. The best way to learn Machine Learning is to actually apply it to real datasets and solve real problems. Machine Learning is as much of an art as it is a science. You will learn it from experience. Your focus should be on attempting multiple ML projects so as to gain experience and build a strong profile.
