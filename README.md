@@ -192,7 +192,7 @@ NodeJS is a runtime environment for JavaScript based on Chrome's V8 engine. Java
 - [Android Developers Website](https://developer.android.com/develop/index.html)
   You will find pretty much **everything** that is present in standard Android here
 - [Android Developers Reference](https://developer.android.com/reference/packages.html)
-  Documentation on all classes is given here
+  Documentation on all classes is given here.
 - [FireBase Android](https://firebase.google.com/docs/android/setup)
 - **Specific Guides**
     - [Intents](https://developer.android.com/guide/components/intents-filters.html)
