@@ -142,6 +142,14 @@ AngularJS (also written as Angular.js) is a JavaScript-based open-source front-e
 
 [Projects](https://github.com/angular/angular.js/wiki/Projects-using-AngularJS) It has a list of open source projects and examples using AngularJS.
 
+#### Angular 4
+Angular is a TypeScript-based open-source front-end web application framework led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS.
+
+### Tutorials
+1. [Angular 4](https://www.tutorialspoint.com/angular4/) Angular provides built-in features for animation, http service, and materials which in turn has features such as auto-complete, navigation, toolbar, menus, etc.
+2. [Staff Appreciation Dashboard](https://angular.io/tutorial) The Tour of Heroes tutorial covers the fundamentals of Angular.In this tutorial you will build an app that helps a staffing agency manage its stable of heroes.
+3. [Step by Step Tutorial](https://www.udemy.com/learn-angular-from-scratch/)Learning Angular 4 step by step 
+4. [Learn Angular 4 from Scratch](https://coursetro.com/courses/12/Learn-Angular-4-from-Scratch)Angular 4 is here and it's time to learn one of the most popular and powerful javascript frameworks. Join me in this free Angular 4 course and follow along by watching videos or reading written tutorials.
 
 ### React
 React is a JS library to create interactive user interfaces. Complete the following 5 tutorials in order.
