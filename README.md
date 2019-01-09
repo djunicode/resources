@@ -298,6 +298,6 @@ To start with Computer Vision you will need to master the library `opencv` and s
 
 [Coursera Tutorial link](https://www.coursera.org/learn/deep-learning-in-computer-vision)
 
-[Link to presentation](https://drive.google.com/open?id=1c1-RrYQvUxrrwsxr6ZN_lw1oYDR3cr5K) This presentation explains an image and gives an example how image detection works and what happens when you apply different kernels and edge detection techniques.There are more advanced topis but I feel this will itself be more heavy on brains for a beginner. Also at the presentation contains a simple Nerual network which takes an image 28x28 pixel size and classify what digit is it.
+[Link to presentation](https://drive.google.com/open?id=1c1-RrYQvUxrrwsxr6ZN_lw1oYDR3cr5K) This presentation explains an image and gives an example how image detection works and what happens when you apply different kernels and edge detection techniques.There are more advanced topis but I feel this will itself be more heavy on brains for a beginner. The presentation contains a simple Nerual network which takes an image 28x28 pixel size and classify what digit is it.
 
-Basic requirement :- **Strong under of Image** , **understanding of what a Neural network is and how it works** , **pyhton** and the most important **interest to learn** :p
+Basic requirement :- **Strong understanding of  what an Image is** , **Basic understanding of what a Neural network is and how it works** , **python** and the most important **interest to learn** :p
