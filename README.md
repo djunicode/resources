@@ -16,7 +16,12 @@ List of resources to get started with software development.
 * [Git](#git)
 * [Advanced Topics](#advanced-topics)
   * [Natural Language Processing](#natural-language-processing)
+
   * [Computer Vison](#computer -vison)
+
+  * [Machine Learning](#machine-learning)
+
+
 
 ## Languages
 
@@ -142,6 +147,14 @@ AngularJS (also written as Angular.js) is a JavaScript-based open-source front-e
 
 [Projects](https://github.com/angular/angular.js/wiki/Projects-using-AngularJS) It has a list of open source projects and examples using AngularJS.
 
+#### Angular 4
+Angular is a TypeScript-based open-source front-end web application framework led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS.
+
+### Tutorials
+1. [Angular 4](https://www.tutorialspoint.com/angular4/) Angular provides built-in features for animation, http service, and materials which in turn has features such as auto-complete, navigation, toolbar, menus, etc.
+2. [Staff Appreciation Dashboard](https://angular.io/tutorial) The Tour of Heroes tutorial covers the fundamentals of Angular.In this tutorial you will build an app that helps a staffing agency manage its stable of heroes.
+3. [Step by Step Tutorial](https://www.udemy.com/learn-angular-from-scratch/)Learning Angular 4 step by step 
+4. [Learn Angular 4 from Scratch](https://coursetro.com/courses/12/Learn-Angular-4-from-Scratch)Angular 4 is here and it's time to learn one of the most popular and powerful javascript frameworks. Join me in this free Angular 4 course and follow along by watching videos or reading written tutorials.
 
 ### React
 React is a JS library to create interactive user interfaces. Complete the following 5 tutorials in order.
@@ -153,7 +166,6 @@ React is a JS library to create interactive user interfaces. Complete the follow
 3. Checkout webpack (no need to go hands on for this) on [Youtube](https://www.youtube.com/watch?v=9kJVYpOqcVU).
 4. Complete this excellent free series on React/Redux/ImmutableJS on [Youtube](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b).
 5. Complete [this project](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/) as you read it.
-
 
 ### NodeJS AND ExpressJS
 NodeJS is a runtime environment for JavaScript based on Chrome's V8 engine. JavaScript is traditionally a frontend language which was only executed in the web browser. NodeJS allows you to run JavaScript programs without a browser and provides a standard library for building HTTP servers and interface with your local machine/ operating system. Theoretically, it's JVM for JavaScript. *ExpressJS* is a NodeJS library which simplifies the creation of complex HTTP servers. Unlike Django, NodeJS/ ExpressJS apps are very lightweight and do not come with features such as authentication or ORM, hence _this section is only recommended for people who are familiar with backend development and JavaScript's asynchronous programming_.
@@ -184,12 +196,22 @@ NodeJS is a runtime environment for JavaScript based on Chrome's V8 engine. Java
 
 ### Courses
 - [Udacity: Developing Android Apps](https://in.udacity.com/course/new-android-fundamentals--ud851)
+- [Google Codelabs: Android tutorials](https://codelabs.developers.google.com/?cat=Android)
+- [Udacity: Kotlin for Android Developers](https://in.udacity.com/course/kotlin-for-android-developers--ud888)
+- [Stanford: Android App Development](http://web.stanford.edu/class/cs193a/videos.shtml)
+- [Google Developers Training : Android Development](https://developers.google.com/training/android/)
+  List of courses of beginners, intermediate and advanced level vy Google
+- [Free Android Development Courses](https://www.udemy.com/topic/android-development/free/)
+  List of free courses provided by Udemy.
+
+### Website
+- www.codinginflow.com
 
 ### Documentation
 - [Android Developers Website](https://developer.android.com/develop/index.html)
   You will find pretty much **everything** that is present in standard Android here
 - [Android Developers Reference](https://developer.android.com/reference/packages.html)
-  Documentation on all classes is given here
+  Documentation on all classes is given here.
 - [FireBase Android](https://firebase.google.com/docs/android/setup)
 - **Specific Guides**
     - [Intents](https://developer.android.com/guide/components/intents-filters.html)
@@ -207,13 +229,27 @@ NodeJS is a runtime environment for JavaScript based on Chrome's V8 engine. Java
         - [Guide on Creating Lists and Cards](https://developer.android.com/training/material/lists-cards.html)
         - [RecyclerView reference](https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html)
         - [RecyclerView layout](https://developer.android.com/guide/topics/ui/layout/recyclerview.html)
+
 ### Some useful libraries
 - [Retrofit](https://square.github.io/retrofit/) ,[Volley](https://developer.android.com/training/volley/) (Networking)
 - [Glide](https://bumptech.github.io/glide/),[picasso](http://square.github.io/picasso/) (images)
 - [GSON](https://github.com/google/gson)  (JSON to POJO and vice versa)
 - [leakcanary](https://github.com/square/leakcanary)  (memory leaks)
 - [Room Persistence Library](https://developer.android.com/topic/libraries/architecture/room) (abstraction layer over SQLite)
+- [Data Binding](https://developer.android.com/topic/libraries/data-binding/) (Binding views without expensive findViewById() calls)
 - **A big list [here](https://github.com/wasabeef/awesome-android-libraries)**
+
+**REACT NATIVE :-**
+
+React Native is a Native JS library to create Mobile Apps(Android, IOS & TV) and quite easier to implement as compared to AndroidStudio(Java).
+ 
+1. Doumentaion: https://facebook.github.io/react-native/docs/getting-started --prefer following "Build use Native Code".
+2. A course by CS50, teaches right from basics of JS & React: https://cs50.github.io/mobile/lectures / https://www.youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR
+3. React Navigation is a realy usefull(and must use) library for all types of navigations in Mobile Apps: https://reactnavigation.org/docs/en/getting-started.html
+4. You can also subscribe to this thread on reddit, it is useful sometimes: https://www.reddit.com/r/reactnative
+5. Get other cool libraries from: https://www.npmjs.com
+
+Suggestions: Use Live Reload & Debug JS Remotely, make sure you make yourself comfirtable with JS syntax, preferably-remove all logs before build, do not touch native scripts without understanding(may cause frustrating build errors).
 
 ## Git
 Every modern development team requires a version control system, and git is probably the best. Linus Torvalds made this, in a mere two weeks to manage the (famously complex) Linux kernel project.
@@ -278,9 +314,57 @@ You may choose to either start from the basics of NLP and gradually move to deep
 
 **Note:** Please make sure to implement at least one project once you are fairly comfortable with NLP. You could either use Deep Learning or just stick to the traditional techniques. Or you could do both and compare the two methods :P
 
+### Machine Learning
+Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome.
+
+Machine Learning today is one of the most sought-after skills in the market. A lot of Software Engineers are picking up ML, simply because it is a highly paid skill.
+So, how do you go about Machine Learning?
+
+•	First things first - the prerequisites:
+
+o	Basic calculus. In Machine Learning, you’d be working on a lot of optimizations that require knowledge of Calculus. It would be highly recommended that you are aware of functions, limits, differentiation, maxima, minima, etc.
+
+o	Linear Algebra. When you talk about ML, you will be dealing with matrices and vectors every day. So, knowledge of Linear Algebra is a must. However, you’d also be required to know about other important topics like Eigenvalues and Eigenvectors.
+
+o	Probability. Most ML algorithms try to “model” the underlying phenomena that generated the observed data. All of this modelling is probabilistic. It is therefore highly recommended that you are comfortable with the theory of Probability.
+
+•	Getting into actual ML:
+
+#### Courses
+
+1.	[Machine Learning]( https://www.coursera.org/learn/machine-learning) by Andrew Ng. on Coursera. It is the best course there is, on this topic, and takes you slowly and efficiently through all the different algorithms like, Regression, Classification, to name a few. Once you finish this about 8-week long course, you should be ready to start taking up small ML projects of your own for practice. The Octave/MATLAB assignments are pretty outdated, though. Python based projects on ML are recommended.
+
+2.	[Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro) as provided by Google, is also a good way to step into the world of ML. However, it is, as its name suggests, a crash course, and would not go as into depth as the Coursera one does. So, if you’re in a hurry, try this one out, and you’ll be done in almost a week or two!
+
+3. [The Complete Machine Learning Course with Python](https://www.udemy.com/machine-learning-course-with-python/) by Udemy with help you build a Portfolio of 12 Machine Learning Projects with Python, SVM, Regression, Unsupervised Machine Learning & More! It's costlier than most courses though, but given the wide variety of teaching styles, including project-based ones, and versatility with Python, Matplotlib, Scikit-learn, et cetera, it's safe to say it is well worth it! There are occasional discounts though, so make heavy use of them.
+
+#### Tutorials 
+
+1. [Machine Learning with Python Tutorial series](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/) on pythonprogramming.net is an in-depth and practical machine learning hands-on course. It aims to give you a wholistic understanding of machine learning, covering theory, application, and inner workings of supervised, unsupervised, and deep learning algorithms. It covers linear regression, K Nearest Neighbors, Support Vector Machines (SVM), flat clustering, hierarchical clustering, and neural networks, using Matplotlib, Scikit-learn, et cetera. What's more, it's free!
+
+#### Books
+
+For those of you, who prefer to learn & understand through a good, thorough read:
+
+1. [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) or PRML by Ian Bishop is hands down the best ML book in existence! The book is thorough on whatever concepts needed, be it purely mathematical or programming. The book is supported by a great deal of additional material, including lecture slides as well as the complete set of figures used in the book, and you are encouraged to visit the [book web site](http://research.microsoft.com/∼cmbishop/PRML) for the latest information. There are some complementary volumes to this, which implement ML through MATLAB.
+
+2. [Machine Learning](https://www.cs.ubbcluj.ro/~gabis/ml/ml-books/McGrawHill%20-%20Machine%20Learning%20-Tom%20Mitchell.pdf) by Tom Mitchell, as published by McGrawHill, is another introductory text on primary approaches to machine learning and
+the study of computer algorithms that improve automatically through experience. It introduces all basics concepts from statistics, artificial intelligence, information theory, and other disciplines as the need arises, with balanced coverage of theory and practice, and presents major algorithms with illustrations of their use, which aids quick learning. This book also provides chapterwise exercises. Online data sets and implementations of several algorithms are also available.
+
+3. [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%2520Sixth%2520Printing.pdf&ved=2ahUKEwj0mv-ywc_fAhUG448KHWwzB-wQFjAAegQIARAB&usg=AOvVaw0z2p5-mAH6aG7kIA7XB2yc) with applications in R by Gareth James, Daniela Witten, Trevor Hastie & Robert Tibshirani. The Python implementations of the same can be found [here](https://github.com/JWarmenhoven/ISLR-python). This is a great book to begin with, as the authors give precise, practical explanations of what methods are available, and when to use them, including explicit R code. Anyone who wants to intelligently analyze complex data should own this book.
+As a textbook for an introduction to data science through machine learning, there is much to like about ISLR. It’s thorough, lively, written at level appropriate for undergraduates and usable by nonexperts. It’s chock full of interesting examples of how modern predictive machine learning algorithms work (and don’t work) in a variety of settings.
+
+4.	[Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/091117.pdf) by David Barber. 
+Speaking of Bayesian statistics, this one is a classic. This takes a Bayesian statistics approach to machine learning. A book worth checking out for anyone getting into the machine learning field. 
+
+5. [Understanding Machine Learning](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html) by Shai Shalev-Shwartz and Shai Ben-David. This book gives a structured introduction to machine learning. It looks at the fundamental theories of machine learning and the mathematical derivations that transform these concepts into practical algorithms. Following that, it covers a list of ML algorithms, including (but not limited to), stochastic gradient descent, neural networks, and structured output learning.
 
 
-Topics to come: Machine Learning, Deep Learning, Computer Vision, Cybersecurity and maybe HCI
+**Note:** Please do take up ML projects. The best way to learn Machine Learning is to actually apply it to real datasets and solve real problems. Machine Learning is as much of an art as it is a science. You will learn it from experience. Your focus should be on attempting multiple ML projects so as to gain experience and build a strong profile.
+
+
+
+Topics to come: Machine Learning, Deep Learning, Cybersecurity and maybe HCI
 
 #### Computer Vision
 
@@ -301,3 +385,5 @@ To start with Computer Vision you will need to master the library `opencv` and s
 [Link to presentation](https://drive.google.com/open?id=1c1-RrYQvUxrrwsxr6ZN_lw1oYDR3cr5K) This presentation explains an image and gives an example how image detection works and what happens when you apply different kernels and edge detection techniques.There are more advanced topis but I feel this will itself be more heavy on brains for a beginner. The presentation contains a simple Nerual network which takes an image 28x28 pixel size and classify what digit is it.
 
 Basic requirement :- **Strong understanding of  what an Image is** , **Basic understanding of what a Neural network is and how it works** , **python** and the most important **interest to learn** :p
+
+
