@@ -109,6 +109,7 @@ Django is server-side Python framework that allows developers to create web apps
 2. Django Web Development [Sentdex Video Tutorial](https://www.youtube.com/watch?v=FNQxxpM1yOs&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd)
 3. [Simple is better than complex](https://simpleisbetterthancomplex.com/) contains many intermediate to advanced level tutorials on django and connecting different things with django.
 4. [The New Boston](https://www.youtube.com/watch?v=qgGIqRFvFFk&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK) tutorials are good to help you get started with Django and give the basic overview of the framework.
+5. [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) to get started and understand Django better.
 
 #### Packages
 1. [Django Packages](https://djangopackages.org/) contains different django packages for almost all different categories.
