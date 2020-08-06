@@ -189,14 +189,15 @@ NodeJS is a runtime environment for JavaScript based on Chrome's V8 engine. Java
 
 
 ## Android
+Android development uses the Android SDK with Java or Kotlin as the language for native android development. This section also includes links for React Native. 
 
 ### Courses
 - [Udacity: Developing Android Apps](https://in.udacity.com/course/new-android-fundamentals--ud851)
 - [Google Codelabs: Android tutorials](https://codelabs.developers.google.com/?cat=Android)
 - [Udacity: Kotlin for Android Developers](https://in.udacity.com/course/kotlin-for-android-developers--ud888)
-- [Stanford: Android App Development](http://web.stanford.edu/class/cs193a/videos.shtml)
+- [Stanford: Android App Development](http://web.stanford.edu/class/cs193a/videos.shtml). A little older guide.
 - [Google Developers Training : Android Development](https://developers.google.com/training/android/)
-  List of courses of beginners, intermediate and advanced level vy Google
+  List of courses of beginners, intermediate and advanced level by Google
 - [Free Android Development Courses](https://www.udemy.com/topic/android-development/free/)
   List of free courses provided by Udemy.
 
@@ -221,6 +222,8 @@ NodeJS is a runtime environment for JavaScript based on Chrome's V8 engine. Java
         For loading data into the UI from any source. Prevents the UI from being unresponsive
     - [ContentProviders](https://developer.android.com/guide/topics/providers/content-providers.html)
         For creating a standardized and effective interface to access your app's data from within and outside the app. This is very important when doing any kind of local storage
+    - [Jetpack Navigation](https://developer.android.com/guide/navigation)
+        Use Jetpack navigation to create Single Activity Apps, and navigate easily using fragments along with data passing capabilities. It is much easier to use fragments with this, prefer using this if you don't want the trouble of handling navigation stacks
     - **RecyclerView**: Everybody go through this, no matter what part of the Android stack you focus on
         - [Guide on Creating Lists and Cards](https://developer.android.com/training/material/lists-cards.html)
         - [RecyclerView reference](https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html)
@@ -239,7 +242,7 @@ NodeJS is a runtime environment for JavaScript based on Chrome's V8 engine. Java
 
 React Native is a Native JS library to create Mobile Apps(Android, IOS & TV) and quite easier to implement as compared to AndroidStudio(Java).
  
-1. Doumentaion: https://facebook.github.io/react-native/docs/getting-started --prefer following "Build use Native Code".
+1. Doumentation: https://facebook.github.io/react-native/docs/getting-started --prefer following "Build use Native Code".
 2. A course by CS50, teaches right from basics of JS & React: https://cs50.github.io/mobile/lectures / https://www.youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR
 3. React Navigation is a realy usefull(and must use) library for all types of navigations in Mobile Apps: https://reactnavigation.org/docs/en/getting-started.html
 4. You can also subscribe to this thread on reddit, it is useful sometimes: https://www.reddit.com/r/reactnative
