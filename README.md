@@ -63,6 +63,7 @@ Bootstrap is a free and open-source front-end web framework for designing websit
 1. [Bootstrap W3school](https://www.w3schools.com/bootstrap/)
 2. [Bootstrap tutorial for beginners](https://www.youtube.com/playlist?list=PL6n9fhu94yhXd4xnk-j5FGhHjUv1LsF0V) Video Lectures
 3. [FCC Bootstrap](https://www.freecodecamp.org/map-aside#nested-collapseResponsiveDesignwithBootstrap)
+4. [Official documentation](https://getbootstrap.com)
 
 
 ### jQuery
