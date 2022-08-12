@@ -238,8 +238,7 @@ Android development uses the Android SDK with Java or Kotlin as the language for
 - [Data Binding](https://developer.android.com/topic/libraries/data-binding/) (Binding views without expensive findViewById() calls)
 - **A big list [here](https://github.com/wasabeef/awesome-android-libraries)**
 
-**REACT NATIVE :-**
-
+## REACT NATIVE
 React Native is a Native JS library to create Mobile Apps(Android, IOS & TV) and quite easier to implement as compared to AndroidStudio(Java).
  
 1. Doumentation: https://facebook.github.io/react-native/docs/getting-started --prefer following "Build use Native Code".
