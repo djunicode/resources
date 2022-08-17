@@ -13,6 +13,8 @@ List of resources to get started with software development.
   * [React](#react)
   * [NodeJS & ExpressJS](#nodejs-and-expressjs)
 * [Android](#android)
+* [React-Native](#react-native)
+* [Flutter](#flutter)
 * [Git](#git)
 * [Advanced Topics](#advanced-topics)
   * [Natural Language Processing](#natural-language-processing)
@@ -254,19 +256,19 @@ Flutter is an open source framework by Google for building beautiful, natively c
  
 1. Installation
 * https://www.youtube.com/watch?v=BqHOtlh3Dd4
-https://www.youtube.com/watch?v=2KxpscpeTcQ
+* https://www.youtube.com/watch?v=2KxpscpeTcQ
 
 2. Dart
-https://www.youtube.com/watch?v=0CTj3x6jgeY
+* https://www.youtube.com/watch?v=0CTj3x6jgeY
 
 3. Flutter Basics
-https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ
-https://www.youtube.com/watch?v=jhak1BCbK2k
-https://www.youtube.com/watch?v=1gDhl4leEzA
+* https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ
+* https://www.youtube.com/watch?v=jhak1BCbK2k
+* https://www.youtube.com/watch?v=1gDhl4leEzA
 
 4. Blogs and Documentation
-https://docs.flutter.dev/
-https://www.freecodecamp.org/news/an-introduction-to-flutter-the-basics-9fe541fd39e2/
+* https://docs.flutter.dev/
+* https://www.freecodecamp.org/news/an-introduction-to-flutter-the-basics-9fe541fd39e2/
 
 5. Get other cool libraries from: https://pub.dev/
 
