@@ -249,6 +249,27 @@ React Native is a Native JS library to create Mobile Apps(Android, IOS & TV) and
 
 Suggestions: Use Live Reload & Debug JS Remotely, make sure you make yourself comfirtable with JS syntax, preferably-remove all logs before build, do not touch native scripts without understanding(may cause frustrating build errors).
 
+## Flutter
+Flutter is an open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase.
+ 
+1. Installation
+https://www.youtube.com/watch?v=BqHOtlh3Dd4
+https://www.youtube.com/watch?v=2KxpscpeTcQ
+
+2. Dart
+https://www.youtube.com/watch?v=0CTj3x6jgeY
+
+3. Flutter Basics
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ
+https://www.youtube.com/watch?v=jhak1BCbK2k
+https://www.youtube.com/watch?v=1gDhl4leEzA
+
+4. Blogs and Documentation
+https://docs.flutter.dev/
+https://www.freecodecamp.org/news/an-introduction-to-flutter-the-basics-9fe541fd39e2/
+
+5. Get other cool libraries from: https://pub.dev/
+
 ## Git
 Every modern development team requires a version control system, and git is probably the best. Linus Torvalds made this, in a mere two weeks to manage the (famously complex) Linux kernel project.
 
