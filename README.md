@@ -253,7 +253,7 @@ Suggestions: Use Live Reload & Debug JS Remotely, make sure you make yourself co
 Flutter is an open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase.
  
 1. Installation
-https://www.youtube.com/watch?v=BqHOtlh3Dd4
+* https://www.youtube.com/watch?v=BqHOtlh3Dd4
 https://www.youtube.com/watch?v=2KxpscpeTcQ
 
 2. Dart
