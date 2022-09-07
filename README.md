@@ -43,6 +43,7 @@ HTML defines the structure of a web page. It forms the skeleton of the web page.
 2.  [CodeAcademy HTML](https://www.codecademy.com/learn/learn-html)
 3.  [CodeAcademy CSS](https://www.codecademy.com/learn/learn-css)
 4.  [Udacity Intro Course To HTML and CSS](https://in.udacity.com/course/intro-to-html-and-css--ud304/) Video Lectures
+5.  [Overview of HTTP Statuses](https://www.abstractapi.com/http-status-codes) Overview of each HTTP Status Code and what it means
 
 
 ### JavaScript
